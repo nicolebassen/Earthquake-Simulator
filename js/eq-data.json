@@ -1,0 +1,367 @@
+{
+  "earthquakes": {
+    "earthquake": [
+      
+      {
+        "name": "Southern California",
+        "magnitude": "6.7",
+        "location": {
+          "name": "Northridge, CA",
+          "latitude": {
+            "degrees": "34",
+            "minutes": "22",
+            "direction": "N"
+          },
+          "longitude": {
+            "degrees": "115",
+            "minutes": "17",
+            "direction": "W"
+          }
+      },
+        "map": {
+          "name": "scmap",
+          "buttonbackgroundname": "trigger_sc",
+          "upperlatitude": {
+            "degrees": "35",
+            "minutes": "55",
+            "direction": "N"
+          },
+          "lowerlatitude": {
+            "degrees": "32",
+            "minutes": "49",
+            "direction": "N"
+          },
+          "leftlongitude": {
+            "degrees": "119",
+            "minutes": "35",
+            "direction": "W"
+          },
+          "rightlongitude": {
+            "degrees": "111",
+            "minutes": "0",
+            "direction": "W"
+          },
+          "scale": "1.2035714285714285714285714285714"
+        },
+        "station": [
+                {
+                    "latitude":{
+                      "degrees": "35",
+                      "minutes": "30",
+                      "direction": "N"
+                    },
+                    "longitude":{
+                      "degrees": "119",
+                      "minutes": "0",
+                      "direction": "W"
+                    }
+                  },
+                  {
+                    "latitude":{
+                      "degrees": "35",
+                      "minutes": "10",
+                      "direction": "N"
+                    },
+                    "longitude":{
+                      "degrees": "116",
+                      "minutes": "5",
+                      "direction": "W"
+                    }
+                  },
+                  {
+                    "latitude":{
+                      "degrees": "35",
+                      "minutes": "22",
+                      "direction": "N"
+                    },
+                    "longitude":{
+                      "degrees": "111",
+                      "minutes": "40",
+                      "direction": "W"
+                    }
+                  },
+                  {
+                    "latitude":{
+                      "degrees": "34",
+                      "minutes": "30",
+                      "direction": "N"
+                    },
+                    "longitude":{
+                      "degrees": "118",
+                      "minutes": "55",
+                      "direction": "W"
+                    }
+                  },
+                  {
+                    "latitude":{
+                      "degrees": "34",
+                      "minutes": "0",
+                      "direction": "N"
+                    },
+                    "longitude":{
+                      "degrees": "114",
+                      "minutes": "55",
+                      "direction": "W"
+                    }
+                  },
+                  {
+                    "latitude":{
+                      "degrees": "34",
+                      "minutes": "10",
+                      "direction": "N"
+                    },
+                    "longitude":{
+                      "degrees": "111",
+                      "minutes": "45",
+                      "direction": "W"
+                    }
+                  },
+                  {
+                    "latitude":{
+                      "degrees": "33",
+                      "minutes": "13",
+                      "direction": "N"
+                    },
+                    "longitude":{
+                      "degrees": "117",
+                      "minutes": "20",
+                      "direction": "W"
+                    }
+                  },
+                  {
+                    "latitude":{
+                      "degrees": "33",
+                      "minutes": "20",
+                      "direction": "N"
+                    },
+                    "longitude":{
+                      "degrees": "115",
+                      "minutes": "10",
+                      "direction": "W"
+                    }
+                  },
+                  {
+                    "latitude":{
+                      "degrees": "33",
+                      "minutes": "25",
+                      "direction": "N"
+                    },
+                    "longitude":{
+                      "degrees": "111",
+                      "minutes": "47",
+                      "direction": "W"
+                    }
+                  }
+        ]
+      },
+      {
+        "name": "Northern California",
+        "magnitude": "7.1",
+        "location": {
+          "name": "Loma Prieta, CA",
+          "latitude": {
+            "degrees": "37",
+            "minutes": "8",
+            "direction": "N"
+          },
+          "longitude": {
+            "degrees": "121",
+            "minutes": "50",
+            "direction": "W"
+          }
+        },
+        "map": {
+          "name": "ncmap",
+          "buttonbackgroundname": "trigger_nc",
+          "upperlatitude": {
+            "degrees": "39",
+            "minutes": "5",
+            "direction": "N"
+          },
+          "lowerlatitude": {
+            "degrees": "35",
+            "minutes": "59",
+            "direction": "N"
+          },
+          "leftlongitude": {
+            "degrees": "122",
+            "minutes": "30",
+            "direction": "W"
+          },
+          "rightlongitude": {
+            "degrees": "113",
+            "minutes": "55",
+            "direction": "W"
+          },
+          "scale": "1.2035714285714285714285714285714"
+        },
+        "station": [
+          {
+            "latitude": {
+              "degrees": "38",
+              "minutes": "45",
+              "direction": "N"
+            },
+            "longitude": {
+              "degrees": "118",
+              "minutes": "35",
+              "direction": "W"
+            }
+          },
+          {
+            "latitude": {
+              "degrees": "38",
+              "minutes": "40",
+              "direction": "N"
+            },
+            "longitude": {
+              "degrees": "114",
+              "minutes": "35",
+              "direction": "W"
+            }
+          },
+          {
+            "latitude": {
+              "degrees": "38",
+              "minutes": "18",
+              "direction": "N"
+            },
+            "longitude": {
+              "degrees": "114",
+              "minutes": "5",
+              "direction": "W"
+            }
+          },
+          {
+            "latitude": {
+              "degrees": "37",
+              "minutes": "20",
+              "direction": "N"
+            },
+            "longitude": {
+              "degrees": "115",
+              "minutes": "9",
+              "direction": "W"
+            }
+          },
+          {
+            "latitude": {
+              "degrees": "36",
+              "minutes": "10",
+              "direction": "N"
+            },
+            "longitude": {
+              "degrees": "114",
+              "minutes": "29",
+              "direction": "W"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Utah",
+        "magnitude": "6.6",
+        "location": {
+          "name": "Kosmos, UT",
+          "latitude": {
+            "degrees": "41",
+            "minutes": "46",
+            "direction": "N"
+          },
+          "longitude": {
+            "degrees": "112",
+            "minutes": "50",
+            "direction": "W"
+          }
+        },
+        "map": {
+          "name": "utmap",
+          "buttonbackgroundname": "trigger_ut",
+          "upperlatitude": {
+            "degrees": "43",
+            "minutes": "55",
+            "direction": "N"
+          },
+          "lowerlatitude": {
+            "degrees": "40",
+            "minutes": "49",
+            "direction": "N"
+          },
+          "leftlongitude": {
+            "degrees": "115",
+            "minutes": "35",
+            "direction": "W"
+          },
+          "rightlongitude": {
+            "degrees": "107",
+            "minutes": "0",
+            "direction": "W"
+          },
+          "scale": "1.2035714285714285714285714285714"
+        },
+        "station": [
+          {
+            "latitude": {
+              "degrees": "43",
+              "minutes": "30",
+              "direction": "N"
+            },
+            "longitude": {
+              "degrees": "114",
+              "minutes": "0",
+              "direction": "W"
+            }
+          },
+          {
+            "latitude": {
+              "degrees": "42",
+              "minutes": "50",
+              "direction": "N"
+            },
+            "longitude": {
+              "degrees": "107",
+              "minutes": "33",
+              "direction": "W"
+            }
+          },
+          {
+            "latitude": {
+              "degrees": "40",
+              "minutes": "52",
+              "direction": "N"
+            },
+            "longitude": {
+              "degrees": "115",
+              "minutes": "27",
+              "direction": "W"
+            }
+          },
+          {
+            "latitude": {
+              "degrees": "43",
+              "minutes": "50",
+              "direction": "N"
+            },
+            "longitude": {
+              "degrees": "110",
+              "minutes": "4",
+              "direction": "W"
+            }
+          },
+          {
+            "latitude": {
+              "degrees": "41",
+              "minutes": "30",
+              "direction": "N"
+            },
+            "longitude": {
+              "degrees": "108",
+              "minutes": "11",
+              "direction": "W"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

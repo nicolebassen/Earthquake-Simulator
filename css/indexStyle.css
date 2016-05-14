@@ -1,0 +1,62 @@
+        body {
+            margin-top: 1px;
+        }
+        
+        .divide-nav {
+            height: 80px;
+            background-color: #428bca;
+        }
+        
+        #map{
+            
+            background: lightblue;
+            width: auto;
+            height: 32.4em;
+            box-sizing: border-box;
+            
+        }
+        
+        .divide-text {
+            color: #fff;
+            line-height: 20px;
+            font-size: 20px;
+            padding: 15px 0;
+        }
+        
+        .affix {
+            top: 1px;
+            width: 100%;
+        }
+        
+        .filler {
+            min-height: 2000px;
+        }
+        
+        .navbar-form {
+            padding-left: 0;
+        }
+        
+        .navbar-collapse {
+            padding-left: 0;
+        }
+        
+        #footer {
+            height: 60px;
+            background-color: #f5f5f5;
+        }
+        
+        #left {
+            height: 800px;
+            width: 5000px;
+            overflow: scroll;
+            background-color: green;
+        }
+        
+        #allYourContent {
+            height: 200px;
+        }
+        
+        #right {
+            height: 200px;
+            background-color: red;
+        }
