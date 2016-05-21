@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<instructiontext>
+  <!-- The height is the pixels of the panel containing this document.  It determines how much scrollable
+  space there is. -->
+  <height>470</height>
+  <!-- The only tags available are <p> for a paragraph, <glossary> for a glossary entry, and <h> for a header.
+  <glossary> has an attibute of "term" that defines the term (see how they look below).  <p> has an
+  optional "extraspacing" argument that overides the default 6 pixel extra paragraph spacing.  -->
+  <text>
+    <h>Glossary Terms Glosario</h>
+    <p extraspacing="4"><glossary term="Amplitude">Amplitud</glossary></p>
+    <p extraspacing="4"><glossary term="Epicenter">Epicentro</glossary></p>
+    <p extraspacing="4"><glossary term="Focus">Foco</glossary></p>
+    <p extraspacing="4"><glossary term="Latitude+and+Longitude">Latitud y Longitud</glossary></p>
+    <p extraspacing="4"><glossary term="Love+Wave">Ondas Love</glossary></p>
+    <p extraspacing="4"><glossary term="Magnitude">Magnitud</glossary></p>
+    <p extraspacing="4"><glossary term="Moment+Magnitude">Magnitud Momento</glossary></p>
+    <p extraspacing="4"><glossary term="P+Waves">Ondas P</glossary></p>
+    <p extraspacing="4"><glossary term="Rayleigh+Wave">Ondas Rayleigh</glossary></p>
+    <p extraspacing="4"><glossary term="Richter+Magnitude">Magnitud Richter</glossary></p>
+    <p extraspacing="4"><glossary term="Richter+Nomogram">Nomograma Richter</glossary></p>
+    <p extraspacing="4"><glossary term="S+Waves">Ondas S</glossary></p>
+    <p extraspacing="4"><glossary term="S-P+Lag+Time">Diferencia de tiempo S-P</glossary></p>
+    <p extraspacing="4"><glossary term="Seismic+Moment">Momento Sísmico</glossary></p>
+    <p extraspacing="4"><glossary term="Seismic+Waves">Ondas sísmicas</glossary></p>
+    <p extraspacing="4"><glossary term="Seismograms">Sismograma</glossary></p>
+    <p extraspacing="4"><glossary term="Seismographs">Sismógrafo</glossary></p>
+    <p extraspacing="4"><glossary term="Surface+Waves">Ondas superficiales</glossary></p>
+    <p extraspacing="4"><glossary term="Surface+Wave+Magnitude">Magnitud de las ondas superficiales</glossary></p>
+    <p extraspacing="4"><glossary term="Travel-Time+Curve">Gráfico tiempo-distancia</glossary></p>
+  </text>
+</instructiontext>

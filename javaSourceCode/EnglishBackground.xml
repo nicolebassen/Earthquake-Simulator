@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<instructiontext>
+  <!-- The height is the pixels of the panel containing this document.  It determines how much scrollable space
+  there is. -->
+  <height>890</height>
+  <text>
+    <h>Note to First Time Users</h>
+    <p>To complete this activity, you need to be able to read a seismic wave travel-time curve. If you are
+      unfamiliar with travel-time curves, you should complete the Travel-Time exercise before continuing with
+      Epicenter Location and Magnitude.</p>
+    <h>Epicenter Location</h>
+    <p>The <glossary term="epicenter">epicenter</glossary> of an earthquake is the spot on the earth's
+      surface directly above the quake's <glossary term="focus">focus</glossary>.  It can be the site of much
+      damage. When an earthquake occurs, we don't initially know the location of its epicenter. But we do
+      have access to the <glossary term="seismograms">seismograms</glossary> that recorded the exact times of
+      arrival of the <glossary term="p+waves">P</glossary> and <glossary term="s+waves">S waves</glossary> at
+      seismic stations at known locations. The difference between the times of arrival of S and P waves is
+      called the <glossary term="S-P lag time">S-P lag time</glossary>. In the <glossary
+        term="travel-time+curve">"Travel-Time" curve</glossary> activity, you constructed a graph that now
+      can be used to determine the distance between a seismic station and the earthquake's epicenter.</p>
+    <p>Unfortunately, just knowing the distance from a seismic station to an epicenter is not enough
+      information to actually locate the epicenter. You also need to know the map direction of the epicenter
+      from the seismic station. But there is a way around this problem by using a technique called
+      "triangulation," which uses the S-P lag times recorded at three different seismic stations. A
+      travel-time curve is used to convert the S-P lag times to distances. In this activity you will draw
+      circles around each station with the radius of each circle equal to the epicentral distance. The three
+      circles will intersect at the epicenter.</p>
+    <p>The three circles will probably not intersect at one exact point, but should come pretty close. You
+      may have to visually interpolate more precisely to pinpoint your epicenter. Discounting measurement
+      errors, there are other factors that affect the speed of earthquake waves (and your determination of on
+      epicenter.).  For example, variations in the rock types through which the waves travel will change the
+      actual travel times and hence the S-P intervals, which in turn, will produce small, but significant
+      variations in the epicentral distances. We should not expect the method of triangulation to result in
+      an exact point.</p>
+    <h>Magnitude Determination</h>
+    <p>Magnitude is a quantitative measurement of the energy released by an earthquake.  Magnitude helps
+      scientists answer questions such as: "How strong was this particular earthquake and how does it compare
+      to other earthquakes?"</p>
+    <p>Professor Charles Richter developed the first widely used magnitude scale in 1935. Richter's
+      magnitude, also known as local magnitude, was developed using southern California earthquake data.
+      Richter defined the magnitude of a local earthquake as the logarithm to the base 10 of the maximum
+      seismic wave <glossary term="amplitude">amplitude</glossary> (Amax, measured in millimeters) as
+      recorded on a standard seismograph at a distance of exactly 100 km from the epicenter. Because of wave
+      attenuation, stations closer than 100 km to the epicenter measure higher values of Amax, while those
+      farther away, measure lower values. Therefore, Richter magnitude determinations include a correction
+      for distance to epicenter.</p>
+    <p>Richter used a logarithmic function because maximum amplitudes vary substantially.  As a consequence
+      of the logarithmic scale, when magnitude increases by 1 unit, Amax increases 10 times. Richter
+      magnitude is used at seismograph stations located less than about 500 km from the epicenters of
+      earthquakes with magnitudes less than 6.</p>
+    <p>The Richter magnitude of an earthquake is a number: about 3 for nearby earthquakes that are strong
+      enough for people to feel and about 8 for the Earth's strongest earthquakes. The most sensitive
+      seismographs can record nearby earthquakes with magnitudes of about negative 2, which is the equivalent
+      of stamping your foot on the floor.</p>
+    <p>Today, numerous magnitude scales other than Richter's are in use. Here are some examples:</p>
+    <p extraspacing="0">- <glossary term="P+Wave+Magnitude">P Wave magnitude</glossary> (mb) is useful for deep-focus earthquakes.</p>
+    <p extraspacing="0">- <glossary term="Surface+Wave+Magnitude">Surface Wave Magnitude</glossary> (Ms) is favored for shallow-focus earthquakes</p>
+    <p>- <glossary term="Moment+Magnitude">Moment Magnitude</glossary> (MW) is most favored overall because it takes into account the surface area of
+      fault rupture.</p>
+    <p>Reference: Bolt, Bruce A., 1999, Earthquakes, 4th edition, Freeman and Co.</p>
+  </text>
+</instructiontext>

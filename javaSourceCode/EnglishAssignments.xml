@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<instructiontext>
+  <height>475</height>
+  <!-- The height is the pixels of the panel containing this document.  It
+  determines how much scrollable space there is. -->
+  <text>
+    <h>Assignment: Detemining Epicenter and Magnitude </h>
+
+    <p>First read the &quot;Background&quot; material.</p>
+
+    <p>Your objective now is to locate the epicenter of an earthquake and estimate its Richter magnitude. If you don't
+      know a term, return to the Background and use the Glossary for clarification.</p>
+
+    <p number="1.">Start by clicking on &quot;Select Earthquake&quot; tool on line 1 of Tasks. Select one of the
+      options for the location of an earthquake (given in the right-hand column): Northern or Southern California,
+      Utah, or random (where the program chooses a region.)</p>
+
+    <p number="2.">Click the &quot;Trigger Earthquake&quot; button on the map to generate an earthquake and its
+      seismograms.  Other tools will give information about its purpose. With these tools, do the following tasks in
+      the order given in the task menu (to see the task menu, click on the &quot;task&quot; or check mark tool):</p>
+
+    <p extraspacing="2" indentlevel="20" number="a.">measure the S-P lag times for 3 stations</p>
+
+    <p extraspacing="2" indentlevel="20" number="b.">find the distances from the epicenter</p>
+
+    <p extraspacing="2" indentlevel="20" number="c.">measure the maximum S-wave amplitude</p>
+
+    <p extraspacing="2" indentlevel="20" number="d.">draw circles on the map to triangulate to the epicenter</p>
+
+    <p extraspacing="2" indentlevel="20" number="e.">locate the epicenter on the map</p>
+
+    <p extraspacing="2" indentlevel="20" number="f.">estimate the latitude and longitude of your earthquake's
+      epicenter</p>
+
+    <p indentlevel="20" number="g.">estimate your earthquake's magnitude</p>
+
+    <p>As you progress, be sure to enter your results into the Journal's data table.</p>
+
+
+    <p number="3.">After you determine the magnitude and the latitude and longitude of the epicenter, you will be given
+      a quiz and a Certificate of Completion. </p>
+
+    <p>At any time, you may save your work and return later to finish. You may also print parts of the activity: the
+      backgound statement, the assignment, the map, and your journal entries.</p>
+
+  </text>
+</instructiontext>

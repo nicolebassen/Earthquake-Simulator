@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<instructiontext>
+  <!-- The height is the pixels of the panel containing this document.  It determines how much scrollable
+  space there is. -->
+  <height>470</height>
+  <!-- The only tags available are <p> for a paragraph, <glossary> for a glossary entry, and <h> for a header.
+  <glossary> has an attibute of "term" that defines the term (see how they look below).  <p> has an
+  optional "extraspacing" argument that overides the default 6 pixel extra paragraph spacing.  -->
+  <text>
+    <h>Glossary Terms</h>
+    <p extraspacing="4">- <glossary term="Amplitude">Amplitude</glossary></p>
+    <p extraspacing="4">- <glossary term="Epicenter">Epicenter</glossary></p>
+    <p extraspacing="4">- <glossary term="Focus">Focus</glossary></p>
+    <p extraspacing="4">- <glossary term="Latitude+and+Longitude">Latitude and Longitude</glossary></p>
+    <p extraspacing="4">- <glossary term="Love+Wave">Love Wave</glossary></p>
+    <p extraspacing="4">- <glossary term="Magnitude">Magnitude</glossary></p>
+    <p extraspacing="4">- <glossary term="Moment+Magnitude">Moment Magnitude</glossary></p>
+    <p extraspacing="4">- <glossary term="P+Waves">P Waves</glossary></p>
+    <p extraspacing="4">- <glossary term="Rayleigh+Wave">Rayleigh Wave</glossary></p>
+    <p extraspacing="4">- <glossary term="Richter+Magnitude">Richter Magnitude</glossary></p>
+    <p extraspacing="4">- <glossary term="Richter+Nomogram">Richter Nomogram</glossary></p>
+    <p extraspacing="4">- <glossary term="S+Waves">S Waves</glossary></p>
+    <p extraspacing="4">- <glossary term="S-P+Lag+Time">S-P Lag Time</glossary></p>
+    <p extraspacing="4">- <glossary term="Seismic+Moment">Seismic Moment</glossary></p>
+    <p extraspacing="4">- <glossary term="Seismic+Waves">Seismic Waves</glossary></p>
+    <p extraspacing="4">- <glossary term="Seismograms">Seismograms</glossary></p>
+    <p extraspacing="4">- <glossary term="Seismographs">Seismographs</glossary></p>
+    <p extraspacing="4">- <glossary term="Surface+Waves">Surface Waves</glossary></p>
+    <p extraspacing="4">- <glossary term="Surface+Wave+Magnitude">Surface Wave Magnitude</glossary></p>
+    <p extraspacing="4">- <glossary term="Travel-Time+Curve">Travel-Time Curve</glossary></p>
+  </text>
+</instructiontext>

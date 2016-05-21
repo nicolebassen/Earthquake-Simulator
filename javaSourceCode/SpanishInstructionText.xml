@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+  <!--
+
+  The <name>...</name> entry is how the program determines which instruction to use.  If for some reason two of the <instruction> entities have the same name entry, the first one will be used.
+  XML requires that quotes in the text be entered at &quot; instead of using the " sign.
+  The parts between the <content>...</content> tags use the same tags as the background.xml file.
+
+  -->
+  <instructions>
+  <instruction>
+  <name>todo</name>
+  <content>
+  <p>En la lista de tareas de arriba aparece todo lo que se necesita para resolver esta actividad. </p>
+  <p>Según las vayas completando, el programa las comprueba automáticamente.</p>
+  </content>
+  </instruction>
+  <instruction>
+  <name>stationdragging</name>
+  <content>
+  <p>Selecciona una región de la lista superior para activar un terremoto y haz click en el botón &quot;Provocar explosión&quot;</p>
+  </content>
+  </instruction>
+  <instruction>
+  <name>quakegoing</name>
+  <content>
+  <h>¡Agárrate!</h>
+  </content>
+  </instruction>
+  <instruction>
+  <name>mapfirsttime</name>
+  <content>
+  <p>Si el cuaderno no está visible a tu izquierda, haz click en su pestaña.</p>
+  <p>Desliza hacia abajo para ver la tabla de datos.</p>
+  <p>Completa la tabla utilizando las herramientas de arriba.</p>
+  <p>Haz click en cualquier herramienta y en &quot;Instrucciones&quot; se describirá su uso. La herramienta &quot;Ayuda&quot; (?) te ofrecerá más detalles.</p>
+  </content>
+  </instruction>
+  <instruction>
+  <name>map</name>
+  <content>
+  <p>Pincha en cualquier herramienta y en “Instrucciones” se describirá su uso. La herramienta “Ayuda” (?) te ofrecerá más detalles.</p>
+  </content>
+  </instruction>
+  <instruction>
+  <name>sp</name>
+  <content>
+  <h>Herramienta S-P</h>
+  <p>Haz click sobre el sismograma y luego arrastra el ratón para averiguar la diferencia S-P</p>
+  <p>Asegúrate de anotar tus resultados en la tabla de datos del cuaderno.</p>
+  </content>
+  </instruction>
+  <instruction>
+  <name>amplitude</name>
+  <content>
+  <h>Herramienta Amplitud</h>
+  <p>Haz click y arrastra para medir la máxima amplitud de las ondas S</p>
+  </content>
+  </instruction>
+  <instruction>
+  <name>ttc</name>
+  <content>
+  <h>Herramienta Distancia</h>
+  <p>Arrastra el ratón sobre el gráfico para determinar la distancia hasta el epicentro para cada diferencia de tiempo S-P.</p>
+  </content>
+  </instruction>
+  <instruction>
+  <name>circle</name>
+  <content>
+  <h>Herramienta de triangulación</h>
+  <p>Haz click en cada estación sísmica y amplía el círculo hasta que su radio coincida con la distancia al epicentro.</p>
+  <p>La intersección de tres de estos círculos debe estar muy próxima a un único punto.</p>
+  </content>
+  </instruction>
+  <instruction>
+  <name>epicenter</name>
+  <content>
+  <h>Herramienta Epicentro</h>
+  <p>Haz click sobre el mapa y desplaza la pequeña “E” hasta el punto que represente el epicentro de este terremoto.</p>
+  </content>
+  </instruction>
+  <instruction>
+  <name>latitudelongitude</name>
+  <content>
+  <h extraspacing="6">Herramienta de</h>
+  <h>Latitud y longitud</h>
+  <p>Calcula los valores de latitud y longitud del epicentro y anótalos en el cuaderno.</p>
+  </content>
+  </instruction>
+  <instruction>
+  <name>nomogram</name>
+  <content>
+  <h>Herramienta Magnitud</h>
+  <p>Determina la magnitud Richter para cada una de las estaciones arrastrando el final de la línea roja sobre el NOMOGRAMA, hasta que coincida  con la diferencia de tiempo S-P y con la amplitud de la onda S.</p>
+  <p>Anota estos valores en el cuaderno.</p>
+  </content>
+  </instruction>
+  <instruction>
+  <name>locationwrong</name>
+  <content>
+  <p>Tus valores de latitud y longitud difieren significativamente de los correctos.</p>
+  <p>Asegúrate de que su determinación es correcta, y si así fuera comprueba las diferencias de tiempo S-P y las distancias asociadas.</p>
+  </content>
+  </instruction>
+  <instruction>
+  <name>locationcorrect</name>
+  <content>
+  <h>¡Buen trabajo!</h>
+  <p>Has localizado correctamente el epicentro. </p>
+  <p>Si lo deseas puedes imprimir y/o guardar el cuaderno, el nomograma y el mapa.</p>
+  <p>Puedes salir del programa pinchando en  “Salida”</p>
+  </content>
+  </instruction>
+  <instruction>
+  <name>magnitudewrong</name>
+  <content>
+  <p>El promedio de tus valores de magnitud difieren significativamente de los correctos.</p>
+  <p>Asegúrate de que su determinación es correcta, y si así fuera comprueba tus amplitudes y sus distancias asociadas.</p>
+  </content>
+  </instruction>
+  <instruction>
+  <name>magnitudecorrect</name>
+  <content>
+  <h>¡Buen trabajo!</h>
+  <p>Has determinado correctamente la magnitud. </p>
+  <p>Si lo deseas puedes imprimir y/o guardar el cuaderno, el nomograma y el mapa.</p>
+  <p>Puedes salir del programa pinchando en “Salida” </p>
+  </content>
+  </instruction>
+  <instruction>
+  <name>alldone</name>
+  <content>
+  <h>¡Buen trabajo!</h>
+  <p>Has averiguado correctamente la localización del epicentro y la magnitud del terremoto.</p>
+  <p>Si lo deseas puedes imprimir y/o guardar el cuaderno, el nomograma y el mapa.</p>
+  <p>Puedes salir del programa pinchando en “Salida” </p>
+  <p>¡No te olvides de contestar las preguntas finales y conseguir tu certificado!</p>
+  </content>
+  </instruction>
+</instructions>
