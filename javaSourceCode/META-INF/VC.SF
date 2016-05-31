@@ -1,0 +1,806 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: j2weo1hwCsDlVEYTKOVCkyXehHWBS
+ tBKy/M6onUuwfk=
+SHA-256-Digest-Manifest: /jYJkiIeXPQP9RLAaoeG1Z3JhaEbZcH/B/0zhb7IjPE=
+Created-By: 1.7.0_67 (Oracle Corporation)
+
+Name: images/WindowPanes.gif
+SHA-256-Digest: yDAB6qli7OxTf65LonHmIXtXhFqAF/xAII7OUo9NoGM=
+
+Name: images/EarthTop.jpg
+SHA-256-Digest: cmrQWKfTkPBuRQr9Da/xoo8SXwy9NiZ3hweYwQDGXlg=
+
+Name: com/sciencecourseware/components/EECButton.class
+SHA-256-Digest: T3/TIoIDwhhCUVssNN/iXcv7WCFprVUCNh39yrZ937E=
+
+Name: electric1/xml/Children.class
+SHA-256-Digest: QWJ9PdVHznUrHRI/k/qT6saD/pt509s9RsQg34Y9iw8=
+
+Name: SpanishInstructionText.xml
+SHA-256-Digest: JrWg0r7NCfRyN6iC+lhfozqNbFqhNhLXySrcOB8V6DI=
+
+Name: com/sciencecourseware/earthquake/epicentermagnitude/EpicenterMag
+ nitude$ToolboxHandler.class
+SHA-256-Digest: 5cgNIshF9u208+6ZH/dCxvDXMyQxY04n26KZl93bcEI=
+
+Name: Acme/JPM/Encoders/GifEncoder.class
+SHA-256-Digest: VKXqLTpK7xdI+nA61KaumRfdQw2RzI9cbkoRJQIGyGg=
+
+Name: com/sciencecourseware/earthquake/epicentermagnitude/PrintDialog.
+ class
+SHA-256-Digest: g+eAuq8CdrBfdhB1AczOyHtaJ3Zcsq3gKbpuAbS6Rbk=
+
+Name: images/toolbox_disabled.gif
+SHA-256-Digest: cXr65lAAzJ6UAgPSaboIZsGxDvifY2PDxiEb9+Jn7+U=
+
+Name: Acme/IntHashtable.class
+SHA-256-Digest: is0Hj0z0PuN+/1t942mOHCljEIZsD6qcyj99MSDethE=
+
+Name: com/sciencecourseware/components/DialogListener.class
+SHA-256-Digest: 4TOPzkXGrLur0HAG+h7QXdqhjgHV+cygTo7uzkjdiZE=
+
+Name: images/toolbox_help_up_over.gif
+SHA-256-Digest: FHo9Q7QAJmqXCwJu4Wbq2JC2DxHuWL98Xxj60K++8GY=
+
+Name: EnglishGlossaryterms.xml
+SHA-256-Digest: RO6324RsDikkbCEOXHLO9fvOrenwCmpw54ABhCpjYTU=
+
+Name: EnglishAssignments.xml
+SHA-256-Digest: oIXrd4OCC11PM6FPRDzZp0k48wPV3+FIrfHGMsy2i3M=
+
+Name: images/TopDownOverButton.gif
+SHA-256-Digest: r2RQF5v/8qqYHFrCp1eBXcG2gEblUi73YXJj9LxrtSM=
+
+Name: com/sciencecourseware/earthquake/epicentermagnitude/MapComponent
+ $2.class
+SHA-256-Digest: 8CZnkYfWPGHz5vH+S0roaTN0XCejJj0w8c1FVSBRgH8=
+
+Name: images/toolbox_icons/earthquake.jpg
+SHA-256-Digest: cjsJEEIRlIbdsF1BwJv3WK8CT6rdqrkaH70XFfxbtfc=
+
+Name: EnglishInfo.xml
+SHA-256-Digest: bAvaEv5+BuurFeeSNtiURoFq0chuq4gCKnIEHOML9gk=
+
+Name: images/trigger_ut.gif
+SHA-256-Digest: 6S3ucmBAA6GkjntKG7Il0VChi88Ljk/Vui9xufCC7E8=
+
+Name: com/sciencecourseware/components/MessageDialog$ClosingKeyHandler
+ .class
+SHA-256-Digest: wCfl032PkcxxVkLwcSSlV6xbxXkyx/EIVw+fDptNy2Q=
+
+Name: electric1/util/io/Streams.class
+SHA-256-Digest: KOnPNYmS87DA10U7i+UV1BUcAes24jqNM6aVULn9N5w=
+
+Name: images.xml
+SHA-256-Digest: Q7AnMhBiwm8J/VW3QmXsouKnB2V7TzOnf0pBZt6GeOI=
+
+Name: com/sciencecourseware/components/InstructionText$IvjEventHandler
+ .class
+SHA-256-Digest: SAbDX0pRchNtMcBIRKikxd/EovGFPJSzdW6bFynMh6E=
+
+Name: com/sciencecourseware/earthquake/epicentermagnitude/Journal$Spac
+ erCanvas.class
+SHA-256-Digest: ztpYutve61uVJLqYKBM25HxlLSQWb4xLfwUadk5RIJU=
+
+Name: electric1/xml/ElementsFilter.class
+SHA-256-Digest: TInZdi7ad1HJPJ/xi7Hoo6I1R28ei9WpSCXHmn6w8B0=
+
+Name: images/EarthAnimation/EarthAnim_f07.gif
+SHA-256-Digest: dGueZY79QzoBv9kFVodMQDUtpOMrmCtKZC1cmj/ozA4=
+
+Name: images/toolbox_help_down_over.gif
+SHA-256-Digest: 0Efb8XLL6pgjNM20Z63dc8exzT0hmUKih8T2xEPDfFo=
+
+Name: com/sciencecourseware/components/ToolTipCanvas.class
+SHA-256-Digest: v6lGcrcYjk3g6bqu8dujUFqUVV+ebK9fjgGfjry5hag=
+
+Name: electric1/xml/AllAttributesNode.class
+SHA-256-Digest: zPudLmOVBhztOITemEWvdSx2iSNrV6WU1tUW2Ye2DVQ=
+
+Name: electric1/xml/NameNode.class
+SHA-256-Digest: GNDiythHx7+l2lE/ndxS7h1Ok1FJW9wa0YgEfXVlKR0=
+
+Name: com/sciencecourseware/earthquake/epicentermagnitude/ToDo.class
+SHA-256-Digest: dYfhGnrneydIJpBcGh4e9BsYk+4BJHx6TNQJ1QmK57o=
+
+Name: com/sciencecourseware/earthquake/epicentermagnitude/EpicenterMag
+ nitude$TheEventHandler.class
+SHA-256-Digest: dwXoH86D6VeZTtxgqxM9cOVd2IqSC9HoBO9JmYGEOYs=
+
+Name: com/sciencecourseware/earthquake/epicentermagnitude/EpicenterMag
+ nitude$1.class
+SHA-256-Digest: uomm+sgjp66GOm8y67X9e8EaQheTklnTMHadnA4AYPg=
+
+Name: electric1/xml/NamespaceException.class
+SHA-256-Digest: RDl5w4nfygtwTrgTuiGlIiC5bunoGOuQjd7fenyiXVI=
+
+Name: images/EarthAnimation/EarthAnim_f16.gif
+SHA-256-Digest: 3KXecDdTB1ByNoVggGxkYRmu9ZTwIlV1HXwMeDehTFU=
+
+Name: com/sciencecourseware/earthquake/epicentermagnitude/LatitudeLong
+ itudePoint.class
+SHA-256-Digest: TXTl+aCSkPzMx5o0wbzqtIqKPFCveb8RDBsINqq+R+Y=
+
+Name: electric1/xml/NotationDecl.class
+SHA-256-Digest: MxPfm8+FeRhcLk6vnf2r4MX/NCqDG4KtfKXzVGznrXE=
+
+Name: images/EarthAnimation/EarthAnim_f01.gif
+SHA-256-Digest: aLdiVezz4Kst23HPRqHsyty3ZlQY9swHAynPsKTtUYM=
+
+Name: com/sciencecourseware/earthquake/epicentermagnitude/PrintDialog$
+ InsetPanel.class
+SHA-256-Digest: C35gp3FduIN4Bdoyjl+cjIbSiS16dBwgFd5U0n7tp44=
+
+Name: images/EarthAnimation/EarthAnim_f35.gif
+SHA-256-Digest: p87XRBgONBaPleOdDwahdrJYUBMv4KfX4hntj6vbdhU=
+
+Name: images/toolbox_icons/check.jpg
+SHA-256-Digest: MJQiQ3vx8uzK1y1vky1LbJV9Wml8/AYoTLHluBcxkRQ=
+
+Name: electric1/util/NodeList.class
+SHA-256-Digest: qz/38cKTqvCG/gqMx5FUNihpGjhnJ9AHJcCG/ncX64k=
+
+Name: images/button_beveled_disabled.gif
+SHA-256-Digest: dhhHRk6JAZ+ydYH8cZcJnztZ5bdcO5ECJWzhtFoo6JM=
+
+Name: electric1/util/IComparator.class
+SHA-256-Digest: 0BrM2aZNA9rrIYER90/ACAWGf3xutQeglS7+RWHIBg4=
+
+Name: com/sciencecourseware/earthquake/epicentermagnitude/NomogramCanv
+ as$PopupHandler.class
+SHA-256-Digest: TKmR5bqmz34QhsLz9gQvbFuERXeoiOhUJjYjRqHmVJM=
+
+Name: com/sciencecourseware/components/Printer$PrintTab.class
+SHA-256-Digest: czQVCtaeQZTa18Aab31gNvODIycKV3/EgTK1tV31Z+4=
+
+Name: com/sciencecourseware/earthquake/epicentermagnitude/EpicenterMag
+ nitude.class
+SHA-256-Digest: SxSxBHWAzQcr1ExNhZxxQmF4mjDGS1qqiclSxUWd498=
+
+Name: images/nc_new.gif
+SHA-256-Digest: 7t8x5O9H8DGdS1JhVm2+zWxg8RX5mfmMY4IYFRiuHkA=
+
+Name: electric1/util/io/FastBufferedReader.class
+SHA-256-Digest: 3qtqyYO4evHqbP0WH7r2IbxVGxa8LgxV/UEyU0h05ho=
+
+Name: images/toolbox_icons/e.jpg
+SHA-256-Digest: VmCtQnZsaBoqjGfIic0in7HS6yE/9/46EV5d/2U5BQI=
+
+Name: images/EarthAnimation/EarthAnim_f09.gif
+SHA-256-Digest: kgiGn0QkOFCO8AOjEOACBvynUDWnr006+doi9gC1TXA=
+
+Name: com/sciencecourseware/components/TabButtonsPanel$1.class
+SHA-256-Digest: 4j1GQPQU1rW+3faJciCj19prrUklnJ3JmfN8oVnejA8=
+
+Name: images/check_in.gif
+SHA-256-Digest: 3th3lctSPAbrvTwXP73cRaHXLN6e8yUpTsoU57rbRmo=
+
+Name: com/sciencecourseware/components/ToolTipComponent.class
+SHA-256-Digest: fGoQkJgFymhjOWciQYPEs2ZXE18leimhqRF1XRP4iXc=
+
+Name: com/sciencecourseware/components/InsetContainer.class
+SHA-256-Digest: KLtVmHVgUDOs7kNoX1q2OwIhgfXmW2b9R/8Zcaj13MI=
+
+Name: com/sciencecourseware/earthquake/epicentermagnitude/SaveDialog$1
+ .class
+SHA-256-Digest: YHg7crhsla7BrVK/gJQQigk9xrWe5vf04RhwV/HQrOo=
+
+Name: com/sciencecourseware/earthquake/epicentermagnitude/TCCGraph$2.c
+ lass
+SHA-256-Digest: y9NRZj5Y1HctA5UK/wfXUov5lvISoPEa5oQZi+O/HUU=
+
+Name: com/sciencecourseware/components/Printer$PrinterObject.class
+SHA-256-Digest: Eoqlcox78xbSc2MOt3IeIQ73My++ZnZPCVe8W/fAT8I=
+
+Name: electric1/xml/AttlistDecl.class
+SHA-256-Digest: ZH3UhtRnKpI2YAZEjStV0xAA+5GsmIVwgKBaSQGn/4s=
+
+Name: com/sciencecourseware/components/EECButton$1.class
+SHA-256-Digest: nl+a42YLJelE2QgcsbUpqadVcx7ofoN/km8V0D33wwI=
+
+Name: com/sciencecourseware/components/GlossaryHandler.class
+SHA-256-Digest: McdlSaC/uy/rkFaQHgJ1DLoBIsFJgmizWq+gB4QrUho=
+
+Name: electric1/xml/Element.class
+SHA-256-Digest: H86+VG2IhnjFoAgjbh0fGFM4ja6FJv9bOJNLrhotnJE=
+
+Name: images/toolbox_icons/lat.jpg
+SHA-256-Digest: UUajhXGphX2YfO46IxrDbbUiUJ7ZFPSkRTqlBJA6VjM=
+
+Name: electric1/xml/Attribute.class
+SHA-256-Digest: U+gpaC+i+sNwclIhYXJmC4+cljW8Y1yM5pRFoxJ05YE=
+
+Name: electric1/xml/Elements.class
+SHA-256-Digest: sxn5cmMpVc1HuANlb5JOTtBrL0/WiG5uroTI18eD3H4=
+
+Name: electric1/xml/CData.class
+SHA-256-Digest: QJWxP0KpZxlfUjmml3UyU/BFrhhAkFrIdL/71ONsy9w=
+
+Name: com/sciencecourseware/earthquake/epicentermagnitude/MapComponent
+ $3.class
+SHA-256-Digest: y6LFIzyCT7nZ3msXZlx/KeMOUfo1ZeyKnbDQ26hWEiY=
+
+Name: com/sciencecourseware/earthquake/epicentermagnitude/EpicenterMag
+ nitude$HistoricalEarthquakeHandler.class
+SHA-256-Digest: 03MYYMz5wZvezBcGrvkO/OBbC1wKAdd+Qwu2RMxDiC4=
+
+Name: electric1/util/ArrayUtil.class
+SHA-256-Digest: I3QF5RazSSJNMb+IgbZZa9EdciuypeEkaJZnKKYVFH0=
+
+Name: SpanishInfo.xml
+SHA-256-Digest: 9YUAPthsZovYIFIdQIL9K3ahtdr1fj5GdvJaWjeC+bk=
+
+Name: electric1/xml/DocType.class
+SHA-256-Digest: gSKyyInQfMHvCea4xG1HPOe16tciLXZ4pIQsj0mFjU0=
+
+Name: images/toolbox_help_up.gif
+SHA-256-Digest: +ggjV/Vfo0P+Vq+ovLF8kbf5PKBM5kwZOLLmr3FpBQ4=
+
+Name: electric1/xml/ElementDecl.class
+SHA-256-Digest: cvF+s9sDBcT3IU5VY0IHPjoAHvV1aqrN3/bJ+k834fM=
+
+Name: electric1/xml/Document.class
+SHA-256-Digest: 1mpxhhBmrzWZPHCH9jrfXv3zbB054mgiHjrP+rED8yU=
+
+Name: electric1/xml/AttributeNode.class
+SHA-256-Digest: /2Yvk8/0kxWr25jo85mf1HuWEvWNnn3RPGmWlQ8Ry7U=
+
+Name: com/sciencecourseware/earthquake/epicentermagnitude/NomogramCanv
+ as$NomogramMouseMotionListener.class
+SHA-256-Digest: 7g/ueM/1/w/gmvAKnG2ZhxnnLJ7tJ3MjANwxu460Vhw=
+
+Name: electric1/util/log/WriterLogger.class
+SHA-256-Digest: rNXEeF6YhmzaseIc0RlfwmyboNLfYuj1o8aa5Y+49Hw=
+
+Name: electric1/util/Strings.class
+SHA-256-Digest: wfcQUrbUu/5498cBaVemWhQP46v0o3KAaht5OI0LBp8=
+
+Name: images/EarthAnimation/EarthAnim_f18.gif
+SHA-256-Digest: 7zL5Z1IMvn8+DPHGis2chUitd/9JjDy+91QOAAKXdH8=
+
+Name: images/toolbox_up.gif
+SHA-256-Digest: Y8VLsNPkCSW6Hl9U/0aRgikzP6UDbXTK6wxUFErfxPQ=
+
+Name: jpegencoder/JpegInfo.class
+SHA-256-Digest: ibml7Xz50STMSnT/BSPbS4x1S088++LPTt3yquL/oeY=
+
+Name: electric1/util/log/Logger.class
+SHA-256-Digest: wDz8Rs5lOONLTxf9wa4ex67kjrad4HieORM9t9tL2X8=
+
+Name: com/sciencecourseware/components/ConfirmDialogListener.class
+SHA-256-Digest: JOLJFp3k5WMCERPhheL8MDr9UgDq1n5gx4R3ncHGlHU=
+
+Name: electric1/xml/Text.class
+SHA-256-Digest: xGA+FiQjdej0WSQbaMD/5DCaA3q4iefwKOPDq6BjDFI=
+
+Name: electric1/xml/ParseException.class
+SHA-256-Digest: 5/eWkabEqGeHMbBVTP3t2Bx9+yoCXVHto8GgrOFATRc=
+
+Name: electric1/xml/CurrentNode.class
+SHA-256-Digest: uC0YneTp5jRxyz0pU2rIaT/H44Q1xUXVbRbxi5Rk/C8=
+
+Name: SpanishGlossaryterms.xml
+SHA-256-Digest: qUsjhIvcxWb0SZ8DTNLHRuLqwS0EhKU1qJB/3fGESV4=
+
+Name: com/sciencecourseware/earthquake/epicentermagnitude/Earth.class
+SHA-256-Digest: A312V8WL0jE7kzDB2U2Uffyq+qiJWJiGBWVYVYw4V3M=
+
+Name: com/sciencecourseware/earthquake/epicentermagnitude/MapComponent
+ .class
+SHA-256-Digest: 9n6wtTZuciksFPPt6HZ94p9bfYO529u3Hzkt3mmLCLQ=
+
+Name: com/sciencecourseware/earthquake/epicentermagnitude/Journal$Choi
+ ceHandler.class
+SHA-256-Digest: VUtggbB+K2xWmumIVmKJ/QZugXtYR19Qj6IKqRIFU60=
+
+Name: images/toolbox_icons/epi2.jpg
+SHA-256-Digest: 71Sg15r2xbuE/aU+QlNmDeS6D78hAAaqdrBqaBh6edI=
+
+Name: com/sciencecourseware/components/CheckmarkCanvas.class
+SHA-256-Digest: ZBGUlPgoyN98/93XkE0z+nFUBdqgMBZYuppoeFTqdMk=
+
+Name: jpegencoder/JpegEncoder.class
+SHA-256-Digest: dAqeRvzbc40XRTf7QL+cvcg2A2BHXdyL6OR/2LqRlGs=
+
+Name: images/button_beveled_down_over.gif
+SHA-256-Digest: 5wxcOKH7JuUCYDfNaaUWGZFFgM2fgyPVRJVxMqhMFdc=
+
+Name: images/toolbox_icons/question2.jpg
+SHA-256-Digest: BVWDnyCvNSRobq3oupUz0fCP2Sl49hvL0aQ3VdRn+/s=
+
+Name: images/EarthAnimation/EarthAnim_f29.gif
+SHA-256-Digest: 4BXpEtLpCyYtb/shwN0JP7WE6MVQ7wdlQJw0dBOP+Lw=
+
+Name: com/sciencecourseware/earthquake/epicentermagnitude/PrintDialog$
+ 1.class
+SHA-256-Digest: CS+3yPKnxaOK1WiDU+KqAfRhf+oTgtzhJ4jceLQKQqg=
+
+Name: images/EarthAnimation/EarthAnim_f33.gif
+SHA-256-Digest: i6vyJ3Lf0lY3gjdb4ojikc/HmYt7FJycwBkJsXBacGY=
+
+Name: SpanishHistoricalEarthquakeData.xml
+SHA-256-Digest: +l8JZS+wuc48Rv/anPE3xejr5mhSbk+KFcpkNF8QJ5M=
+
+Name: electric1/xml/Attributes.class
+SHA-256-Digest: jV7ey9FcRAfNaMs9D3RNA9TfgaINwrW/oUAhRkDqfgM=
+
+Name: images/EarthAnimation/EarthAnim_f13.gif
+SHA-256-Digest: vkJYqcFGl9F4jgGdpDSssjCXzTVRhDMFleksBfMrCUo=
+
+Name: electric1/util/Lex.class
+SHA-256-Digest: UwzGC7dX3doegc8AdhJ8mtwiP8AKlQXykOVt+m6TzNM=
+
+Name: electric1/xml/TextPredicate.class
+SHA-256-Digest: uw1wbMCKC0TQmUy71waV1KfrQnw2gZKL/g7YjGMQMxI=
+
+Name: images/toolbox_icons/check2.jpg
+SHA-256-Digest: n5N6tawfEJqyzwB2b7Rto7z8rBJixi5+jLwJS36zNr8=
+
+Name: EnglishInstructionText.xml
+SHA-256-Digest: ONgklu9aSCjfCSiCb3iAhGUsrYSui2daZncabyQJb3w=
+
+Name: images/button_beveled_up_over.gif
+SHA-256-Digest: HlM5b0WTVmgsqlCVciIny3UmWyzoSte5UUttmQDdpQw=
+
+Name: images/EarthAnimation/EarthAnim_f12.gif
+SHA-256-Digest: qpAOKtB3Zj2Xr4iKZ9CemJJ19cKbTJe0UYrsVmQHTSI=
+
+Name: images/EarthAnimation/EarthAnim_f17.gif
+SHA-256-Digest: Gz6IGe59m8Gw79R5yeN2MjPFWUsXfAOdY+BD3GCaY2s=
+
+Name: com/sciencecourseware/earthquake/epicentermagnitude/PrintDialog$
+ 2.class
+SHA-256-Digest: vvBhUkMSEPS1yYsPFsIdnKySmLUlW/f7YDmb21lXO+8=
+
+Name: images/toolbox_icons/tt.gif
+SHA-256-Digest: 4wBCwM+eFEGsOtIYl0n6oVIIE3dTp0HyrD/6ILT+q4Q=
+
+Name: com/sciencecourseware/components/ComponentToolTipListener.class
+SHA-256-Digest: BRKDaWq5dG9MbzoacCrCA/hH3svq0vFJnANzUduHzjU=
+
+Name: com/sciencecourseware/earthquake/epicentermagnitude/DialogListen
+ er.class
+SHA-256-Digest: 84OGbgQy4PBODpI+5V8Z+NIIyoJoetwgBZp1bqmWkjI=
+
+Name: com/sciencecourseware/components/ImageServer.class
+SHA-256-Digest: UCqnTwvx5TRKEybzjkK5dW0/hzvW7Vs4cJG3r8oWtIE=
+
+Name: electric1/xml/WildNode.class
+SHA-256-Digest: UwPfXiF+oGSM8oiExfWqvYp1MxgMyMT/HLMqmBzt3Ag=
+
+Name: images/toolbox_down.gif
+SHA-256-Digest: iRato8F+O3pGVy4VaRjnUUSVnmkui6tc+yNgmsS6lnc=
+
+Name: com/sciencecourseware/components/Printer$PrintString.class
+SHA-256-Digest: gVD7rA10mc1T7eCUgXhj3ZuDbMgrdf50pNMdMAk2FsQ=
+
+Name: SpanishAssignments.xml
+SHA-256-Digest: yqknBawiicp2QdYg6SR8AhhMatMM/xFmC7uTOGw910o=
+
+Name: electric1/xml/IndexPredicate.class
+SHA-256-Digest: vuo5tPBDl0rElgz3kQZAS9Wgmm07feebKvgyWeYpVrg=
+
+Name: electric1/xml/Selection.class
+SHA-256-Digest: t9xTb4taMyrTz3tcvPyvBV2sdo4/6D4KnLMDiU4fECY=
+
+Name: com/sciencecourseware/earthquake/epicentermagnitude/SaveDialog$2
+ .class
+SHA-256-Digest: jxTY4uJruNyM36SDHavl6B7Dj7wQN0xxt6eRGpmnylI=
+
+Name: electric1/xml/AllNode.class
+SHA-256-Digest: PcAUatZL0YlReUwB4XZY+CqPvOSFEjVbLO9qcgzEMZM=
+
+Name: com/sciencecourseware/earthquake/epicentermagnitude/TCCGraph$Pop
+ upHandler.class
+SHA-256-Digest: ldIVLYcOaBWBISr6o32NHFXo6Hp1skGg1dQOlKWWPzE=
+
+Name: images/toolbox_icons/amp3.jpg
+SHA-256-Digest: sm4Htn6ZneYD9HkhBIHstDOWNHwq1MEJMpt5ghDeUOw=
+
+Name: com/sciencecourseware/earthquake/epicentermagnitude/MapComponent
+ $1.class
+SHA-256-Digest: 0knZrNzLRu18J5fB8/aQPE8zIytIhwpXwhkOyt4wh/g=
+
+Name: images/TopUpButton.gif
+SHA-256-Digest: /q5/9hkYoopFmrSx0nodbI6zkuk80sTC5nmStuMiiUY=
+
+Name: com/sciencecourseware/components/MessageDialogListener.class
+SHA-256-Digest: hnikhfZbWQzYvEwJS7jbLpwrB3Dkps73wIgTwuRy+BY=
+
+Name: electric1/xml/Instruction.class
+SHA-256-Digest: tyohqYjsHfVSytR+nqPULR5jbYYbupP2w02SIL6L5wI=
+
+Name: images/toolbox_icons/question.jpg
+SHA-256-Digest: FR6v0+Td+UqLwcJgG1XiuzOHVUCg8i3/GKAx5QUzDPA=
+
+Name: BreakingSound.au
+SHA-256-Digest: RxaE8SDaxR3LyIa+RtiUl0FW9r4R3dhbJN3sKcaXMN0=
+
+Name: com/sciencecourseware/components/LinkLabel$MouseHandler.class
+SHA-256-Digest: 1k2HCZR6M8Oue5gkyjB9qikDwiieBQndhPZIUR1rang=
+
+Name: images/toolbox_icons/sp.gif
+SHA-256-Digest: stqarQrAlGTO9+FvXYYnvJh3yaQaHZfW4r5+LKMOzmM=
+
+Name: images/EarthAnimation/EarthAnim_f30.gif
+SHA-256-Digest: Sev7c7bZPp3PF4JBxUAVo08MoDQapLzVRZ2qx+bjq4E=
+
+Name: HistoricalEarthquakeData.xml
+SHA-256-Digest: 6qj+FDXby6fB9w4cCxInvhVOR3u4WFAOMJQLjaA+zCU=
+
+Name: SpanishStrings.xml
+SHA-256-Digest: g9HuFeUulMA5qZTxyb4b9/+IVHhSPGedtPxQ31iynBU=
+
+Name: electric1/xml/RootNode.class
+SHA-256-Digest: 3yzTs2lvoQTvCdeVKCXE1WYoB6gEP3ivk8tIKI/wdn0=
+
+Name: images/toolbox_down_over.gif
+SHA-256-Digest: JUKr+3quwrDxL/WH9I9K07H+LnbyFBXrF93XdxaMt0M=
+
+Name: images/toolbox_icons/map.jpg
+SHA-256-Digest: GVLGhZfZNaih35Sqv5hAdV4WStQPkO+tz53CorRLJUA=
+
+Name: electric1/xml/EntityDecl.class
+SHA-256-Digest: rGI2oGsd5Iu3zckgEeRs7ytKCI4SPKxjWLsLRu+QEgE=
+
+Name: Acme/IntHashtableEnumerator.class
+SHA-256-Digest: dE+iIBrg2AhOESyWvTnj14pMK6F5zTXa67j8oS4F0zU=
+
+Name: images/EarthAnimation/EarthAnim_f11.gif
+SHA-256-Digest: SIuVTcW2V3ytRCrptwNNpzOLSOgae5gc22vsBqJqGbQ=
+
+Name: jpegencoder/Huffman.class
+SHA-256-Digest: 6twnt2xS08GResi80embEo7kYFv3VRV3DgDWAM61MEY=
+
+Name: jpegencoder/DCT.class
+SHA-256-Digest: G4Us0Ybfe+oeIZusRrGBvqI0Vc1jn1CQdyPZIVOo0kk=
+
+Name: images/TopUpOverButton.gif
+SHA-256-Digest: N68w6VcWG0gIEwxiK0gb627RJ0LJni73WSF/wRWOyVU=
+
+Name: com/sciencecourseware/earthquake/epicentermagnitude/SaveDialog$3
+ .class
+SHA-256-Digest: L5U7BmfHOTqnKD/HJn4LPpOshOepMXwduHHkCwGAMio=
+
+Name: images/trigger_nc.gif
+SHA-256-Digest: j7ALMANkAVd445pP2EIWX5HkuNj54GoxeicnGppJTmk=
+
+Name: com/sciencecourseware/components/MaxWidthTextField.class
+SHA-256-Digest: dLe1904J/nr4PGzMZjAWbNAJzPy6bKEsG9Ts4onsIHI=
+
+Name: com/sciencecourseware/components/InstructionTextAction.class
+SHA-256-Digest: kHwGGsv3PDBzC5ajcff8plLXTBxzoWI+kKFMbnHMgQo=
+
+Name: com/sciencecourseware/components/MessageDialog$1.class
+SHA-256-Digest: PHKozGfUq0cVZHYhilNtNypyOckCDeX59BRYpPH8OOk=
+
+Name: images/button_beveled_up.gif
+SHA-256-Digest: vT7Yt66ty2/eUgyaCKvvY0qPoSWWaZ+CRD1Mh49IuQg=
+
+Name: images/toolbox_up_over.gif
+SHA-256-Digest: df+3CLgmRFWpdvb2Z8rI6XVmLk+ZqbWvkvjAY5RXj+Q=
+
+Name: Acme/JPM/Encoders/ImageEncoder.class
+SHA-256-Digest: BQddAoFPbF2eMxjPtRIhIZpcKCl7BmQ2gJsQiM/okfk=
+
+Name: electric1/xml/XMLDecl.class
+SHA-256-Digest: H+2P5pP6GVUYnipf8JXih3filjcQPRpl+WAa2OGNNFQ=
+
+Name: images/EarthAnimation/EarthAnim_f27.gif
+SHA-256-Digest: OC0HdGWV9zH1bncVj0QL1cZR8Te01kvxwh/YrL2K3fw=
+
+Name: com/sciencecourseware/earthquake/epicentermagnitude/PointData.cl
+ ass
+SHA-256-Digest: u0fyX9fMIB0Xr6hIL/01uvP+2RCBlzxvewbUc400OKk=
+
+Name: images/EarthAnimation/EarthAnim_f21.gif
+SHA-256-Digest: CXqETSiIoq4oPYgLn5JblpyIrtv6THtk6sJ1D7ulG8A=
+
+Name: images/EarthAnimation/EarthAnim_f19.gif
+SHA-256-Digest: TXjEeQeC+SVb+KCxkZ9yTZKjQbzuBT+9BaPn2BgsaVc=
+
+Name: images/toolbox_icons/e2.jpg
+SHA-256-Digest: fZieY5RVJNQCn/N+h01eGv6eoSJtk12IsiOU55elgzk=
+
+Name: com/sciencecourseware/components/EECButton$IvjEventHandler.class
+SHA-256-Digest: UhQFE33EN16tNW26XEMI02wQsFKvElw/n19xyYAT5CQ=
+
+Name: images/toolbox_icons/tt2a.jpg
+SHA-256-Digest: WaP053HzUet480AhKrxJhKyuWlhb227uQADEjrrJBTQ=
+
+Name: electric1/xml/Comment.class
+SHA-256-Digest: 78peUxGrrkDAvHP4cKKnCXnPqo69V3fEXU0YyvHKe0s=
+
+Name: images/EarthAnimation/EarthAnim_f14.gif
+SHA-256-Digest: PyvLcESGsWFm9j0KrdJDTNI40JHVq+bDawEv9bLofd0=
+
+Name: images/EarthAnimation/EarthAnim_f23.gif
+SHA-256-Digest: fJSnSBOTyrR+DJTsYEk5HhqgNT8cA0rsbgObjp0fuR4=
+
+Name: images/WindowPanesWithDivider.gif
+SHA-256-Digest: vZfwI3cchRGqnv10Ep8LbLPoNDrgnM3frHTrIJuaqa0=
+
+Name: com/sciencecourseware/earthquake/epicentermagnitude/EarthquakeDa
+ ta.class
+SHA-256-Digest: tD0pMMVO0pYOfTOMEtNsy9izjgUjl7RNiEi+iYKFxWY=
+
+Name: images/EarthAnimation/EarthAnim_f36.gif
+SHA-256-Digest: pJDgei4OBD+imyPhYC8pHVPeu8+SkJP9GGAmS6mru9M=
+
+Name: com/sciencecourseware/components/InstructionTextXML.class
+SHA-256-Digest: l2pRWY4bfxJjfcMr6t+USM3gl7xw5/2swvF/sasbd/M=
+
+Name: com/sciencecourseware/earthquake/epicentermagnitude/MapComponent
+ $PopupHandler.class
+SHA-256-Digest: 6DhX29qiG68ZS+Zd10zPT5AweXT7U/RKjxqpZNp9SEE=
+
+Name: images/EarthAnimation/EarthAnim_f15.gif
+SHA-256-Digest: kMTujST2rikQFfISz16dOwmGEp83gCfeSHo4oxp4W0o=
+
+Name: images/EarthAnimation/EarthAnim_f04.gif
+SHA-256-Digest: vSRQC+l8p4Al3QLpU6BVxMxoUNiK74ct9jImSNnfy9w=
+
+Name: images/sc_new.gif
+SHA-256-Digest: a6+ASzWChNdqylFozTAp08rPgEVhyhms6oC64LYkeuY=
+
+Name: electric1/xml/Child.class
+SHA-256-Digest: /McEk1aXaotdEQvKz6hQ6KuEHk0658uMefplbhMLn5A=
+
+Name: images/EarthAnimation/EarthAnim_f28.gif
+SHA-256-Digest: 0V04RMXCd7QK7OA79L11LfDaQhPuOT8nSBynrzF8RoU=
+
+Name: edu/stanford/ejalbert/BrowserLauncher.class
+SHA-256-Digest: OefPquWHBj51NPgVYFS+NM377GG7Culdrj7qRwN14g8=
+
+Name: electric1/util/log/ILogger.class
+SHA-256-Digest: l76A7nrYrnDMTbV9X99HYWHwKBAeCPvfpcQ+8yC+DA8=
+
+Name: com/sciencecourseware/components/InsetContainer$IvjEventHandler.
+ class
+SHA-256-Digest: gJGoE/NeDbcp9g/QPFcKikhioqxtWHVNTkYfMpzIkrk=
+
+Name: Acme/JPM/Encoders/GifEncoderHashitem.class
+SHA-256-Digest: 9msYLBV3tWCKhw6nBkywRx3D4eMcyUj0HaFRbFE9Eck=
+
+Name: com/sciencecourseware/components/LinkLabel.class
+SHA-256-Digest: RztNieKzFixf0kPAZ3YNXv5e+YyMnLUzDLJWCqMI/E0=
+
+Name: electric1/util/Nodes.class
+SHA-256-Digest: OKxAGT+ZlCCn2vw50/3FYwCaMUSNW+5IwJxBk6huGWs=
+
+Name: images/EarthAnimation/EarthAnim_f32.gif
+SHA-256-Digest: fntxs1qqYJYvR1dziFosrD/ea3HubWrzduUhAqUf+fs=
+
+Name: images/EarthAnimation/EarthAnim_f24.gif
+SHA-256-Digest: Mv6FrfUphM5Rjmn8x8QH6SOcUz3CPnbsyZHayQn+Ais=
+
+Name: electric1/util/io/FastReader.class
+SHA-256-Digest: 5GfCu/1GXB4CZYmipyNBdPw3hV4R3Rye0Gf1AvK7yi4=
+
+Name: images/toolbox_icons/lat2.jpg
+SHA-256-Digest: P59ZMvngicbLIc6lYavv9sTt9lZz6cPILslY1UbUCs8=
+
+Name: images/EarthAnimation/EarthAnim_f34.gif
+SHA-256-Digest: fU+WyHTiNIeW4SOno0nzDrh+7iZvRsaNYVHnUtCm3I4=
+
+Name: images/toolbox_icons/map2a.jpg
+SHA-256-Digest: CynH13R55sR+0zW0ewpC1Y2dK03ABo5zxjN3zyM3FwY=
+
+Name: com/sciencecourseware/components/StringServer.class
+SHA-256-Digest: nukxlJmc0aEBJPG4sXnEN0Wjj0wSbz+m+Tq3EBGIQLc=
+
+Name: com/sciencecourseware/earthquake/epicentermagnitude/TCCGraph$1.c
+ lass
+SHA-256-Digest: 0csopUu5iJoFRW9AfXgtqwwQy2NRRxtvSMwxQj9bewU=
+
+Name: images/toolbox_icons/sp2a.jpg
+SHA-256-Digest: yOQ8Vt8NV4VN+7YqimdS+n52sUcLqRUM/icqCTFBohI=
+
+Name: electric1/xml/XPathException.class
+SHA-256-Digest: /r2xAwfJLjpXueg65WLNvU32MDAGrvu+Hl4u/U7KrL0=
+
+Name: images/EarthAnimation/EarthAnim_f25.gif
+SHA-256-Digest: QYLuU0lU0xS1SKgIGgl0d0YQAbC4emjTUPXoHbeAdGk=
+
+Name: com/sciencecourseware/earthquake/epicentermagnitude/MapComponent
+ $MapEventHandler.class
+SHA-256-Digest: wUj33tZz9MdvS1965Gmflhi6Wanij2nGmIc+jFYfmlU=
+
+Name: EnglishHistoricalEarthquakeData.xml
+SHA-256-Digest: wD1IkaiSP2kr9vihSRP4Xgn7C+RtyZElVMwpVz3w4j8=
+
+Name: images/EarthAnimation/EarthAnim_f26.gif
+SHA-256-Digest: QNb/Jj5bxDeR46XvMzeHnc0RLSwQM/Ba1Jsn5ahMmEY=
+
+Name: images/tab_not_selected.gif
+SHA-256-Digest: ZSuSCguHMeOwfxr+xV96tQbpCnyTX48ohw5qttHT+88=
+
+Name: com/sciencecourseware/earthquake/epicentermagnitude/NomogramCanv
+ as$NomogramMouseListener.class
+SHA-256-Digest: QA7bnfvphecL8gXGnmO4peObBImcvBwh3HOUPvobCZQ=
+
+Name: com/sciencecourseware/earthquake/epicentermagnitude/EpicenterMag
+ nitude$HelpHandler.class
+SHA-256-Digest: 9W7JTF/hFJhHKuJ//LrUX4M65zhJUw/a/kDlWremPGE=
+
+Name: images/redx.gif
+SHA-256-Digest: WZ/8TBuyreJ6VqIeQ6z2ln80lmQEk6FzxpWlu/30eHI=
+
+Name: images/tab_selected.gif
+SHA-256-Digest: xKNmKq59gRVDJfyQmnMMBlH2F5srJGMu86Hh0BCWBGg=
+
+Name: images/EarthAnimation/EarthAnim_f05.gif
+SHA-256-Digest: v50UH3WuTs2oLP8PV7tyMYVklWyDmoXy4E4PzgSeDVM=
+
+Name: electric1/xml/AttributePredicate.class
+SHA-256-Digest: vwi2UUIOk7opII6cKF9YJeE9+N2dVmtqfjBi1IMzrEk=
+
+Name: images/ut_new.gif
+SHA-256-Digest: ehIq2e0APabMYbK+kZHYBfwU6bNZUgsIqQx8nWyWfso=
+
+Name: com/sciencecourseware/components/LinkLabel$SpecialText.class
+SHA-256-Digest: gTq5KT+2cF5QT6QGOUfiA0keXSJJIqDjh6PfZD2nB2s=
+
+Name: com/sciencecourseware/components/Earth.class
+SHA-256-Digest: UWp4hlAZdtLWL8al7XGOlMZ/5ED2ye0xdLgcfGBzFlU=
+
+Name: images/toolbox_icons/nomo.jpg
+SHA-256-Digest: RdFqU7Vzy0zbqzv6DKptjbjd6WFmwlOXAc68MXHiii0=
+
+Name: com/sciencecourseware/components/ConfirmDialog.class
+SHA-256-Digest: XYkiVXQi5GY0hlQkmJFUjzCyyczIUOlzKBfea/6dBQ4=
+
+Name: com/sciencecourseware/earthquake/epicentermagnitude/SaveDialog.c
+ lass
+SHA-256-Digest: SE885BrCEQjXGWtaHqX93S2f0fVntm2/ndNwoGaaco0=
+
+Name: EnglishBackground.xml
+SHA-256-Digest: 4X3bwnpO6EvjDFtEkeiCh+bfFJM0KhCkWJch2eAZ4i4=
+
+Name: com/sciencecourseware/earthquake/epicentermagnitude/Journal$1.cl
+ ass
+SHA-256-Digest: S4Z3H/wMVVR1KxHt7zbQ7q4ouHckkKIdR9tQfQi/kZQ=
+
+Name: images/toolbox_icons/epi.jpg
+SHA-256-Digest: Tz7U6mCdyPS7tiuoXQk68C6ezN3VyqxvhNnIOc7Icr8=
+
+Name: com/sciencecourseware/earthquake/epicentermagnitude/NomogramCanv
+ as.class
+SHA-256-Digest: fz/vT0zEsQUulbB0E3ftCfDq8EVO/pu9avMaJl+Nd0k=
+
+Name: com/sciencecourseware/components/TabButtonsPanel.class
+SHA-256-Digest: W7hU0QipLqPTqsSLx9YYMDZf1UGrHOF0dEPPqU3Stdg=
+
+Name: electric1/xml/XPath.class
+SHA-256-Digest: lR1C7/yn5zW2lReiLn/z+L8Snqrthlh/5qqXNe+ta3Y=
+
+Name: images/toolbox_help_down.gif
+SHA-256-Digest: eKgyIN2eVfKPeh4we1vioXfxUWC6LjzWn+fIzFVJaQE=
+
+Name: com/sciencecourseware/earthquake/epicentermagnitude/SeismographS
+ tation.class
+SHA-256-Digest: SyE/pPjtGXZp6eieLkdFNAY311vk3nJA3iRMNCupaQc=
+
+Name: images/EarthAnimation/EarthAnim_f10.gif
+SHA-256-Digest: +LM1ibI8UlbA/bLABdkOErhGTxgheTlFqJq2i9jFBWw=
+
+Name: electric1/util/Node.class
+SHA-256-Digest: 4o64V3f5t+0OpqS0cgTE7ffusNigzEH3AJGjKVSo+HQ=
+
+Name: SpanishBackground.xml
+SHA-256-Digest: 13URO1VIbDjTYoLXHR2YMiojBZP1rIwrzYQGVY+IyZs=
+
+Name: com/sciencecourseware/components/Printer.class
+SHA-256-Digest: 7HKzo47rFze7F8wyFPVIf27cZJbj8pMa/llcveYjG2s=
+
+Name: images/EarthAnimation/EarthAnim_f31.gif
+SHA-256-Digest: GCxJXERMwQLz8ZzwHAEUUxQ9Ic5CHyqqwZBdY94gUtc=
+
+Name: images/EarthAnimation/EarthAnim_f02.gif
+SHA-256-Digest: Wm5Uqzk17xPihDEBAprn2HiWwpsFT/uTHwtjC4ruFYU=
+
+Name: com/sciencecourseware/earthquake/epicentermagnitude/TCCGraph.cla
+ ss
+SHA-256-Digest: 1dA3l0IiW0HFU4DXUuIiWad6T3veukhBd5VKi3FPcUI=
+
+Name: com/sciencecourseware/components/InstructionTextXML$ToolTipHandl
+ er.class
+SHA-256-Digest: d15fkxFQGA8AG5aZ7F7w/ovm+IyOuXHCr8D5Xmgxv50=
+
+Name: com/sciencecourseware/components/Printer$NewLine.class
+SHA-256-Digest: Jy+PxOb261ApPjZKbkOraMugXN9BPYZUS/lrJj7E1qA=
+
+Name: images/EarthAnimation/EarthAnim_f20.gif
+SHA-256-Digest: xvPPxIJ0Vqtr4KM01Jf0uFlReSkjQH4d9N0/rcP/P9g=
+
+Name: com/sciencecourseware/earthquake/epicentermagnitude/Journal.clas
+ s
+SHA-256-Digest: XneBJP4VFZqiRJi01I9g9UvovR2x0Sm0K85zIR4saXQ=
+
+Name: com/sciencecourseware/components/VerticalFlowLayout.class
+SHA-256-Digest: KyB5lBW5T40G/j78Yk15ZSA/9oqKc/6C7bozmHMh7kU=
+
+Name: images/toolbox_icons/nomo2a.jpg
+SHA-256-Digest: nqqqDIWCjEBJwv7CU7HN5CL3nBODjhpHgEMkqcyaDsw=
+
+Name: images/toolbox_icons/earthquake2.jpg
+SHA-256-Digest: jK1io5O14A5niv6JvPgfvny9wJLL2cVsBlVbTRajcWw=
+
+Name: com/sciencecourseware/earthquake/epicentermagnitude/Journal$Popu
+ pHandler.class
+SHA-256-Digest: hwslQltYnx6BqkMjuZfm0RjPNMQv7FPaj2FXZ0+WeYY=
+
+Name: electric1/xml/Parent.class
+SHA-256-Digest: MKUXpcetClB9/crLf/YcdYXEqIqIuQUspLOREtrnSCA=
+
+Name: com/sciencecourseware/components/TabButtonsPanel$2.class
+SHA-256-Digest: BmvqNBk6Xn5gWq3JnTBMmuKnez4TaYGmPww4jHVLR/M=
+
+Name: images/TopDownButton.gif
+SHA-256-Digest: L5tUKQLzWiTX9VLGHNMKTl75E+ig8HYFHaMGs+SqJy4=
+
+Name: EnglishStrings.xml
+SHA-256-Digest: xLDpGACxa7m691/aXnKA9wbuBiJVZjw3gtHkpVmZoXw=
+
+Name: electric1/xml/ParentNode.class
+SHA-256-Digest: 10YApqVtrSpRxKKQudL1+H4h6IEhzLmeLfR8zrmqNcA=
+
+Name: com/sciencecourseware/earthquake/epicentermagnitude/ToDo$ButtonH
+ andler.class
+SHA-256-Digest: dzUUeacT2G4aNchpTVcbaxJKxZnfidI2BkstWhEIVig=
+
+Name: Acme/IntHashtableEntry.class
+SHA-256-Digest: KewJQmEfPVnGMhD4mxbtuRWMysPzH7aWZ4RRn6WiXZo=
+
+Name: com/sciencecourseware/components/InstructionTextXML$TextPainting
+ Info.class
+SHA-256-Digest: 7NoxkXKKiBtkwjFJgXfPKQpMrDNYgq0JHa10ZetkYKA=
+
+Name: com/sciencecourseware/earthquake/epicentermagnitude/PrintDialog$
+ 3.class
+SHA-256-Digest: MN6BXQ11ALeJQpTMnLWaxZyamIzhpHEOEv9jv3dT7io=
+
+Name: images/trigger_sc.gif
+SHA-256-Digest: QTSrg5c8FRnuMN00ik5UW/cKjjO4WxnLj7EjfPzZLic=
+
+Name: images/toolbox_icons/amp.gif
+SHA-256-Digest: WBIK7zgkwgz9c+CtSt+rzqRwNEcW6Mk/eUAE5deDBTs=
+
+Name: com/sciencecourseware/earthquake/epicentermagnitude/Journal$Text
+ FieldHandler.class
+SHA-256-Digest: TyuuLUXjY2fdk18hwv8FhPVZLNHeGxKU9tAi0DYBRqQ=
+
+Name: com/sciencecourseware/earthquake/epicentermagnitude/SaveDialog$I
+ nsetPanel.class
+SHA-256-Digest: NHpIXop5iWhRJspGs30jYV/YQz8sMCIzg7f00vkbu5w=
+
+Name: electric1/xml/XPathNode.class
+SHA-256-Digest: qqigx3yRtCA80CLkaMpIR+Mz3Dr0I+vErkz9cQECl+k=
+
+Name: com/sciencecourseware/components/MessageDialog.class
+SHA-256-Digest: gL5DoT9sPIua7/O914sZpJYbjZzRyVL0SrKuqipGqS0=
+
+Name: images/EarthAnimation/EarthAnim_f08.gif
+SHA-256-Digest: Tq/Tbx8lG4DE8djajQYltBUA5bgItbe34m/wZzvM5U0=
+
+Name: images/EarthAnimation/EarthAnim_f06.gif
+SHA-256-Digest: GLwR67Aav1thYO+2BMS4aL+ari6kz2Gs+C0BPSvjVp8=
+
+Name: images/EarthAnimation/EarthAnim_f03.gif
+SHA-256-Digest: lhVlgGLhiStcIQFYm9utQfEviwS7wQOxmKG1Dukfn24=
+
+Name: images/EarthAnimation/EarthAnim_f22.gif
+SHA-256-Digest: i0QceLF+S1wGV9YEGda9V+o5UmlBW9+A2FKzZoJz7l0=
+
+Name: com/sciencecourseware/components/Printer$PrintFont.class
+SHA-256-Digest: iSUSoVDENHiC9QtCuLjcUnfwo+LaptNeBqjHAWak0dU=
+
+Name: images/button_beveled_down.gif
+SHA-256-Digest: UW7IES1Oatf3MB8ykpVNZ5uoXjxt5ow6JzdvwN4m86I=
+
+Name: com/sciencecourseware/components/InstructionText.class
+SHA-256-Digest: TFvsrIcIi1qQEMyZXtbljq7kzw7rXP6B/ygVSZxA/a0=
+
+Name: electric1/util/log/Log.class
+SHA-256-Digest: DRcr/Vj+mLm1cUslLNlCvJMZ5zLNo0sdd4cYhMx+MIY=
+

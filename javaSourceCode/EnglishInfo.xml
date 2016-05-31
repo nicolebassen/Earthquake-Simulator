@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<instructiontext>
+  <!-- The height is the pixels of the panel containing this document.  It determines how much scrollable space
+  there is. -->
+  <height>660</height>
+  <text>
+    <h>Information on Historical Earthquakes</h>
+
+    <p>Three of the earthquakes in this activity are based upon historical earthquakes. Below you'll find more
+      information on these earthquakes.</p>
+
+    <h>Northridge Earthquake of 1994</h>
+
+    <p>At 4:31 A.M., Pacific Standard Time, on Monday, January 17, a moderate but very damaging earthquake with a
+      moment magnitude (Mw) of 6.7 struck the densely populated San Fernando Valley, in northern Los Angeles.  This
+      region has been repeatedly rocked by moderate to large earthquakes throughout recorded history.  Thousands of
+      aftershocks, many in the magnitude 4.0 to 5.0 range, occurred during the next few weeks, further damaging
+      already-affected structures.</p>
+
+    <p>The death toll was 57, and more than 1,500 people were seriously injured.  A few days after the earthquake,
+      9,000 homes and businesses were still without electricity; 20,000 were without gas; and more than 48,500 had
+      little or no water.  About 12,500 structures were moderately to severely damaged, leaving thousands of people
+      temporarily homeless.  Of the 66,546 buildings inspected, 6% were severely damaged (red tagged) and 17% were
+      moderately damaged (yellow tagged.)  Major freeway damage occurred up to 32 km from the epicenter.  Collapses and
+      other severe damage forced closure of portions of 11 major roads to downtown Los Angeles.</p>
+
+    <h>Loma Prieta Earthquake of 1989</h>
+
+    <p>At 5:04 P.M., Tuesday, October 17, 1989, as over 62,000 fans filled Candlestick Park for the third game of the
+      World Series and the San Francisco Bay Area commute moved into its heaviest flow, a Richter magnitude 7.1
+      earthquake struck.  It was an emergency planner's worst-case scenario.  The 20-second earthquake was centered
+      about 60 miles south of San Francisco, and was felt as far away as San Diego and western Nevada.  Scientists had
+      predicted an earthquake would hit on this section of the San Andreas Fault and considered it one of the Bay
+      Area's most dangerous stretches of the fault.  Damage was in the billions of dollars range.</p>
+
+    <h>Hansel Valley Earthquake of 1934</h>
+
+    <p>1934 Hansel Valley earthquake, north of the Great Salt Lake, magnitude 6.6, a sparsely populated area.  Two
+      people were killed.  Property damage was limited mainly to downed chimneys and cracked walls in poorly
+      constructed brick buildings.  This quake was felt in Idaho, Montana, Nevada, and Wyoming.  Although a minor quake
+      at the time, the increased population in this area now makes earthquakes in this region potentially more
+      destructive.</p>
+
+  </text>
+</instructiontext>

@@ -1,0 +1,181 @@
+<?xml version="1.0" ?>
+<!--
+- The <name>...</name> entry is how the program determines which instruction to use.  If
+for some reason two of the <instruction> entities have the same name entry, the first one
+  will be used.
+- XML requires that quotes in the text be entered at &quot; instead of using the " sign.
+- The parts between the <content>...</content> tags use the same tags as the background.xml
+file.
+ -->
+
+<instructions>
+
+  <instruction>
+    <name>todo</name>
+    <content>
+      <p>The task list above encapsulates what needs to be accomplished in this activity.</p>
+      <p>As you complete each item, it will be checked off by the program.</p>
+    </content>
+  </instruction>
+
+
+  <instruction>
+    <name>stationdragging</name>
+    <content>
+      <p>Select a region for an earthquake from the list above, then click the Trigger  Earthquake button.</p>
+    </content>
+  </instruction>
+
+
+  <instruction>
+    <name>quakegoing</name>
+    <content>
+      <h>Hold On!</h>
+    </content>
+  </instruction>
+
+  <instruction>
+    <name>mapfirsttime</name>
+    <content>
+      <p>If the Journal is not visible on the left, click its tab.</p>
+      <p>Scroll down to the data table.</p>
+      <p>Complete the table by using the tools above.</p>
+      <p>Click a tool and the &quot;Instruction&quot; will give you a description of its use. The
+        &quot;Help&quot; tool (?) will offer more details.</p>
+    </content>
+  </instruction>
+
+  <instruction>
+    <name>map</name>
+    <content>
+      <p>Click a tool and the &quot;Instruction&quot; will give you a description of its use. The
+        &quot;Help&quot; tool (?) will offer more details.</p>
+    </content>
+  </instruction>
+
+
+  <instruction>
+    <name>sp</name>
+    <content>
+      <h>S-P Tool</h>
+      <p>Use your mouse on the seismogram to click and drag the S-P lag time.</p>
+      <p>Be sure to record your results in the data table of your journal.</p>
+    </content>
+  </instruction>
+
+
+  <instruction>
+    <name>amplitude</name>
+    <content>
+      <h>Amplitude Tool</h>
+      <p>Click and drag to measure the maximum amplitude of the S-wave.</p>
+    </content>
+  </instruction>
+
+
+  <instruction>
+    <name>ttc</name>
+    <content>
+      <h>Distance Tool</h>
+      <p>Drag on the curve to determine the epicentral distance for each S-P lag time.</p>
+    </content>
+  </instruction>
+
+
+  <instruction>
+    <name>circle</name>
+    <content>
+      <h>Triangulation Tool</h>
+      <p>Click on each seismic station and drag out an epicentral circle with the appropriate distance as
+        radius.</p>
+      <p>These circles should intersect close to a single point.</p>
+    </content>
+  </instruction>
+
+
+  <instruction>
+    <name>epicenter</name>
+    <content>
+      <h>Epicenter Tool</h>
+      <p>Click on the map and drag the little &quot;E&quot; to the point that represents the epicenter of
+        this earthquake.</p>
+    </content>
+  </instruction>
+
+
+  <instruction>
+    <name>latitudelongitude</name>
+    <content>
+      <h extraspacing="6">Latitude and</h>
+      <h>Longitude Tool</h>
+      <p>Estimate the latitude and longitude values of the location of the earthquake's epicenter and record
+        these values in your journal.</p>
+    </content>
+  </instruction>
+
+
+  <instruction>
+    <name>nomogram</name>
+    <content>
+      <h>Magnitude Tool</h>
+      <p>Determine the Richter Magnitude for each station by dragging the ends of the red line on the
+        NOMOGRAM to match the S-P lag times and the S-wave amplitudes.</p>
+      <p>Record these values in your journal.</p>
+    </content>
+  </instruction>
+
+
+  <instruction>
+    <name>locationwrong</name>
+    <content>
+      <p>Your Latitude and Longitude values differ significantly for the actual ones.</p>
+      <p>Check to be sure your determination is correct and if it is, then verify your S-P lag times and
+        associated distances.</p>
+    </content>
+  </instruction>
+
+
+  <instruction>
+    <name>locationcorrect</name>
+    <content>
+      <h>Good Job!</h>
+      <p>You've correctly located the epicenter.</p>
+      <p>You may want to print and/or save your journal, nomogram, or the map.</p>
+      <p>You can quit by clicking on the quit button.</p>
+    </content>
+  </instruction>
+
+
+  <instruction>
+    <name>magnitudewrong</name>
+    <content>
+      <p>Your average magnitude value differs significantly for the actual one.</p>
+      <p>Check to be sure your determination is correct and if it is, then verify your amplitudes and
+        associated distances.</p>
+    </content>
+  </instruction>
+
+
+  <instruction>
+    <name>magnitudecorrect</name>
+    <content>
+      <h>Good Job!</h>
+      <p>You've correctly determined the magnitude.</p>
+      <p>You may want to print and/or save your journal, nomogram, or the map.</p>
+      <p>You can quit by clicking on the quit button.</p>
+    </content>
+  </instruction>
+
+
+
+  <instruction>
+    <name>alldone</name>
+    <content>
+      <h>Good Job!</h>
+      <p>You've correctly discovered the epicenter's location and the magnitude of the earthquake.</p>
+      <p>You may want to print and/or save your journal, nomogram, or the map.</p>
+      <p>You can quit by clicking on the quit button.</p>
+      <p>Don't forget to take the assessment quiz and get your certificate of completion!</p>
+    </content>
+  </instruction>
+</instructions>

@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<instructiontext>
+  <!-- The height is the pixels of the panel containing this document.  It determines how much scrollable space
+  there is. -->
+  <height>660</height>
+  <text>
+    <h>Información sobre terremotos históricos</h>
+    <p>Tres de los terremotos de esta actividad están basados en terremotos históricos. A continuación se resumen algunas características de estos terremotos. </p>
+    <h>Terremoto de Northridge de 1994 </h>
+    <p>El lunes 17 de enero, a las 4:31 A.M. (tiempo estandar del Pacífico)  un terremoto moderado, pero muy destructivo, con una magnitud de momento de 6.7 (Mw), golpeó el densamente poblado valle de San Fernando, al norte de Los Ángeles. A lo largo del registro histórico, esta región aparece repetidamente sacudida por terremotos de rango entre moderado e intenso. En las siguientes semanas se produjeron miles de réplicas, algunas con magnitudes de entre 4 y 5, aumentando los daños en las estructuras previamente afectadas.</p>
+    <p>En total fallecieron 57 personas y más de 1.500 resultaron gravemente heridas. Días después del terremoto 9.000  hogares y negocios todavía no disponían de electricidad, 20.000 se encontraban sin gas y más de 48.500 tenían problemas con el suministro de agua. La estructura de unos 12.500 edificios estaba moderada o seriamente afectada, dejando temporalmente a miles de personas sin hogar. De 66.546 edificios inspeccionados, el 6% estaban seriamente dañados (alerta roja) y el 17% moderadamente (alerta amarilla) Los principales daños en las autopistas se produjeron en un radio de 32 km desde el epicentro. Colapsos y  daños graves obligaron a cerrar  parte de las 11 principales carreteras de Los Ángeles.</p>
+    <h>Terremoto de Loma Prieta de 1989</h>
+    <p>El 17 de octubre de 1989, a las 5:04 p.m. unos 62.000 seguidores llenaban Candlestick Park para asistir al tercer partido de las World Series y el tráfico en el área de la Bahía de San Francisco se encontraba en su hora punta cuando ocurrió un terremoto de 7.1 de magnitud Richter. La situación era la peor de las posibles imaginadas en los planes de emergencia. El terremoto de 20 segundos, centrado en unas 60 millas al sur de San Francisco, se sintió en lugares tan alejados como San Diego y el oeste de Nevada. Los científicos habían predicho que un terremoto podría golpear esta sección de la falla de San Andrés, considerando el área de la bahía la más peligrosa de la falla. Los daños producidos se cuantificaron en miles de millones de dólares.</p>
+    <h>Terremoto de Hansel Valley de 1934</h>
+    <p>En 1934 se produjo un terremoto de magnitud 6.6 en  Hansel Valley al norte de Great Salt Lake, un área escasamente poblada. Dos personas fallecieron. Los daños en las propiedades se limitaron principalmente a chimeneas caídas y muros agrietados en los barrios de construcciones baratas. Este terremoto se sintió en Idaho, Montana, Nevada y Wyoming. El actual incremento de la población en esta región hace que los terremotos sean potencialmente mucho más destructivos.</p>
+  </text>
+</instructiontext>

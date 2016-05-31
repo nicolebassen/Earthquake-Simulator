@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<instructiontext>
+  <height>475</height>
+  <!-- The height is the pixels of the panel containing this document.  It
+  determines how much scrollable space there is. -->
+  <text>
+    <h>Tarea: determinar el Epicentro y la Magnitud</h>
+
+    <p>En primer lugar hay que leer la &quot;Explicación&quot;</p>
+
+    <p>Ahora tu objetivo es localizar el epicentro de un terremoto y estimar su magnitud en la escala Richter.  Si desconoces alguno de los términos utilizados, busca su descripción en el &quot;Glosario&quot;</p>
+
+    <p number="1.">Empieza pinchando en la herramienta &quot;Seleccionar terremoto&quot; en la primera línea de las tareas. Selecciona una de las opciones de localización del terremoto (en la columna de la derecha): Norte o Sur de California, Utah o bien aleatorio (el programa elige una región).</p>
+
+    <p number="2.">Haz click en el botón &quot;Provocar Terremoto&quot; del mapa para provocar un terremoto y conseguir sus sismogramas. Las demás herramientas te irán informando sobre su utilidad. Con estas herramientas, realiza las siguientes tareas en el orden  que aparece en el menú &quot;Tareas&quot; (para ver este menú pincha en &quot;Tareas&quot; o en el símbolo de verificación de las herramientas):</p>
+
+    <p extraspacing="2" indentlevel="20" number="a.">Mide las diferencias de tiempo S-P en tres estaciones.</p>
+
+    <p extraspacing="2" indentlevel="20" number="b.">Averigua las distancias desde el epicentro.</p>
+
+    <p extraspacing="2" indentlevel="20" number="c.">Mide la máxima amplitud de las ondas S.</p>
+
+    <p extraspacing="2" indentlevel="20" number="d.">Dibuja círculos en el mapa para triangular el epicentro.</p>
+
+    <p extraspacing="2" indentlevel="20" number="e.">Localiza el epicentro en el mapa.</p>
+
+    <p extraspacing="2" indentlevel="20" number="f.">Estima la latitud y la longitud del epicentro de tu terremoto.</p>
+
+    <p indentlevel="20" number="g.">Estima la magnitud de tu terremoto.</p>
+
+    <p>Según vayas avanzando, asegúrate de introducir tus resultados en la tabla de datos del cuaderno.</p>
+
+    <p number="3.">Después de determinar la magnitud, y la latitud y longitud del epicentro, te aparecerán unas preguntas y un certificado de realización de la actividad.</p>
+
+    <p>En cualquier momento puedes guardar tu trabajo para recuperarlo más tarde. También puedes imprimir partes de la actividad: la explicación, la tarea, el mapa y las anotaciones del cuaderno.</p>
+
+  </text>
+</instructiontext>
