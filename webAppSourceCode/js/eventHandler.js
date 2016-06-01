@@ -24,7 +24,7 @@ var markersArray = [];
 
 /**
  * Creates an earthquake when user clicks the earthquake button
- **/
+ */
 function createEarthquake(){
     //TODO: It isn't removing from screen
     // Clears Markers on screen
@@ -51,7 +51,10 @@ function createEarthquake(){
 /**
  * Animates map to simulate earthquake. Time is in milliseconds and repeat determines how many
  * cycles of the animation to run
- **/
+ *
+ * @param {*} time The speed of the animation
+ * @param {number} repeat The number of times to repeat the animation sequence
+ */
 function shakeMap(time, repeat) {
     for(var count = 0; count < repeat; count++){
         $( "#map" ).animate({
@@ -67,8 +70,10 @@ function shakeMap(time, repeat) {
     }
 }
 /**
- * Add station to map created       
- **/
+ * Add station to map created
+ * 
+ * @param {Station} singleStation The station that will be added to the map
+ */
 function showMarker(singleStation) {
     console.log(singleStation.name + ": Lat="+singleStation.latitude+" Lng="+singleStation.longitude);
     var marker = new google.maps.Marker({
@@ -85,18 +90,25 @@ function showMarker(singleStation) {
 
 }
 
-
+/**
+ * Deletes all markers from the map
+ * 
+ */
 function deleteOverlays() {
-      if (markersArray) {
-          for (i=0; i < markersArray.length; i++) {
-              markersArray[i].setMap(null);
-          }
-      markersArray.length = 0;
+  if (markersArray) {
+      for (i=0; i < markersArray.length; i++) {
+          markersArray[i].setMap(null);
       }
+  markersArray.length = 0;
+  }
 }
+
 /**
  * Adds an event where click on a marker you see it's name
- **/
+ * 
+ * @param {Station} singleStation The station that was clicked
+ * @param {number} index The position in the markers array for that marker
+ */
 function addClickEvent(singleStation, index){
     var infowindow = new google.maps.InfoWindow({ content: '<div><h3>'+ singleStation.name +'</h3></div>' });
     markersArray[index].addListener('click', function() {
@@ -106,7 +118,7 @@ function addClickEvent(singleStation, index){
 
 /**
  * Takes data from JSON loads station and earthquake
- **/
+ */
 function loadJSON(){
     //alert("json");
     $.getJSON("js/eq-data.json", function(result){
@@ -156,9 +168,15 @@ function loadJSON(){
     });
     
     /**
-     * Converts Degree,Minute, and Direction to Decimal format
-     **/
-    function dmsToDeg(degrees,minutes,direction)
+     * Converts Degrees, Minutes, and Direction to Decimal format
+     * 
+     * @param {number} degrees The degrees
+     * @param {number} minutes The minutes 
+     * @param {string} direction The direction in the format ("W", "S", etc)
+     * 
+     * @returns {number}
+     */
+    function dmsToDeg(degrees, minutes, direction)
     {
         var decimal = parseInt(degrees)+(parseInt(minutes) * 60)/(60*60);
         
@@ -169,6 +187,9 @@ function loadJSON(){
     }
 }
 
+/**
+ * This function initializes the Google maps Map
+ */
 function initialize() {
     //alert("init");
     //alert(latDecimal+" " + lngDecimal);
@@ -183,9 +204,15 @@ function initialize() {
 }
 
 /**
- * Station Class that stores a position in decimal and name
- **/
-function Station(latStation,longStation,nameStation,id){
+ * Station Class
+ * Stores a latitude & longitude in decimal form and name/id strings
+ * 
+ * @param {number} latStation The latitude coordinate of the station
+ * @param {number} longStation The longitude coordinate of the station 
+ * @param {string} nameStation The name of the station
+ * @param {string} id The id assigned to the station
+ */
+function Station(latStation, longStation, nameStation, id){
     this.latitude =  latStation;
     this.longitude = longStation;
     this.name = nameStation;
@@ -193,22 +220,44 @@ function Station(latStation,longStation,nameStation,id){
 }
 
 /**
- *  Earthquake Class creates a random earthquake
- **/
+ * Earthquake Class
+ * creates a random earthquake with the given parameters
+ * 
+ * @param {number} upperLat The upper bound for the latitude of the quake
+ * @param {number} lowerLat The lower bound for the latitude of the quake
+ * @param {number} leftLong The left bound for the longitude of the quake
+ * @param {number} rightLong The right bound for the longitude of the quake
+ */
 function Earthquake(upperLat, lowerLat, leftLong, rightLong){
     this.latitude = getRandomNumber(lowerLat, upperLat);
     this.longitude = getRandomNumber(leftLong, rightLong);
     this.magnitude = getRandomNumber(0, 9).toFixed(2);
 }
 
-// Class that store inform about the map
+/**
+ * MapInfo class
+ * This class is used to store information about the map
+ * 
+ * @param {MapBoundaries} mapGrid The MapBoundaries object for this map
+ * @param {number} centerLatitude The center of the map's latitude
+ * @param {number} centerLongitude The center of the map's longitude
+ */
 function MapInfo(mapGrid, centerLatitude, centerLongitude){
     this.mapGrid = mapGrid;
     this.latitude = centerLatitude;
     this.longitude = centerLongitude;
 }
 
-// Class used to hold the boundaries of map. Used to help deterine the range of earthquake
+/**
+ * MapBoundaries class
+ * Class used to hold the boundaries of map. 
+ * Used to help determine the range of earthquake
+ *
+ * @param {number} upperLat The highest latitude value of the map
+ * @param {number} lowerLat The lowest latitude value of the map
+ * @param {number} leftLong The farthest left value of the map
+ * @param {number} rightLong The farthest right value of the map
+ */
 function MapBoundaries(upperLat,lowerLat,leftLong, rightLog){
     this.upperLatitude = upperLat;
     this.lowerLatitude = lowerLat;
@@ -216,7 +265,15 @@ function MapBoundaries(upperLat,lowerLat,leftLong, rightLog){
     this.rightLongitude = rightLog;
 }
 
-// Returns a random number between min and max
+/**
+ * getRandomNumber
+ * This function returns a random number between two values
+ * 
+ * @param {number} min The minimum value that the number can be
+ * @param {number} max The maximum value that the number can be
+ * 
+ * @returns {number}
+ */ 
 function getRandomNumber(min, max) {
   return Math.random() * (max - min) + min;
 }
