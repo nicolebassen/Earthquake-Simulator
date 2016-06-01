@@ -8,9 +8,21 @@
 </head>
 
 <body>
-
-<canvas id="myCanvas" width="600" height="300" style="border:1px solid #d3d3d3;">
+<div>
+    <canvas id="myCanvas" width="600" height="300" style="border:1px solid #d3d3d3;">
 Your browser does not support the HTML5 canvas tag.</canvas>
+</div>
+<div>
+   Distance <input id="distance" type="number" value="150">
+   Max Distance <input id="maxDistance" type="number" value="500">
+   Scale <input id="scale" type="number" value=".1">
+   Height Factor <input id="heightFactor" type="number" value="50">
+   Magnitude <input id="magnitude" type="number" value="2.0">
+</div>
+<div>
+    <button id="button">Change stats</button>
+</div>
+
 
 <script>
     const MILLIMETER_INTERVALS= 10;
@@ -220,12 +232,18 @@ Your browser does not support the HTML5 canvas tag.</canvas>
         return flag1;
         
     }
-    
-    
-    // Read data if data sucessful than load chart
-    if(flag){
-        setupChart(600, 300, 600, 600, 5.0,false);
-    }
+    // Loads data entered on test display
+    document.getElementById("button").addEventListener("click", function(){
+        var changeDistance = document.getElementById("distance").value;
+        var changeMaxDistance = document.getElementById("maxDistance").value;
+        var changeScale = document.getElementById("scale").value;
+        this.magnitude = document.getElementById("magnitude").value;
+        this.heightFactor = document.getElementById("heightFactor").value;
+        console.log(changeDistance);
+        console.log(changeMaxDistance);
+        console.log(changeScale);
+        setupChart(600, 300, changeDistance, changeMaxDistance, changeScale,false);
+    });
 
 
 
