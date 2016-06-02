@@ -47,7 +47,7 @@
                 </div>
             </div>
     
-            <div id="journal" class="col-lg-5">
+            <div id="journalWindow" class="col-lg-5">
                 <div class="row">
                     <?php include 'journal.php';?>   
                 </div>
@@ -65,6 +65,7 @@
     <!-- Latest compiled and minified JavaScript -->
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jsgrid/1.4.1/jsgrid.min.js"></script>
+    
     
     
     
