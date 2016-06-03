@@ -29,7 +29,10 @@ var a = 1.0;
 var b = 1.0;
     
 /**
- *
+ * This method computes the p amplitude for the graph
+ * 
+ * @param {number} distance The current distance
+ * @param {number} maxDistance The maximum distance
  */
 function computePAmplitude(distance, maxDistance)
 {
@@ -38,21 +41,26 @@ function computePAmplitude(distance, maxDistance)
     
 /**
  * Sets the distance of station to epicenter
+ * 
+ * @param {number} newDistance The new distance 
+ * @param {number} newMaxDistance The new maximum distance
  */
-function setDistance(setDistance, setMaxDistance)
+function setDistance(newDistance, newMaxDistance)
 {
     ctx.beginPath();
     ctx.clearRect(0, 0, c.width, c.height);
-    distance = setDistance;
-    maxDistance = setMaxDistance;
-    spInterval = 0.23200000000000001 * setDistance - 3.0109799999999999E-06 * setDistance * setDistance - (0.12889999999999999 * setDistance - 1.44672E-06 * setDistance * setDistance);
-    pAmplitude = this.computePAmplitude(setDistance, magnitude);
+    distance = newDistance;
+    maxDistance = newMaxDistance;
+    spInterval = 0.23200000000000001 * newDistance - 3.0109799999999999E-06 * newDistance * newDistance - (0.12889999999999999 * newDistance - 1.44672E-06 * newDistance * newDistance);
+    pAmplitude = this.computePAmplitude(newDistance, magnitude);
     sAmplitude = pAmplitude / 5;
-    duration = spInterval * ((setMaxDistance * 3) / setDistance);
+    duration = spInterval * ((newMaxDistance * 3) / newDistance);
 }
     
 /**
  * Pseudo Random using a seed to generate randomness
+ * 
+ * @param {number} seed To use when generating a random number
  */
 function ran(seed) {
     console.log((Math.random() * seed + 1.0) - seed / 2.0);
@@ -60,7 +68,9 @@ function ran(seed) {
 }
     
 /**
- * 
+ * This function is used compute the next step of the graph
+ * @param {number} currentTime The time interval for the current point
+ * @param {number} height The height of the step
  */
 function computeNextStep(currentTime, height) {
     var d1 = 0.0;
@@ -153,7 +163,14 @@ function computeNextStep(currentTime, height) {
     
 /**
  * Draws seismagraph and sets basic stats for seismagraph chart
- **/
+ * 
+ * @param {number} setWidth The width of the chart
+ * @param {number} setHeight The height of the chart
+ * @param {number} setDistance Set the distance from the quake
+ * @param {number} setMaxDistance Set the farthest distance from the quake
+ * @param {number} setScale Set the scale of the graph
+ * @param {boolean} setFlag 
+ */
 function setupChart(setWidth,setHeight,setDistance, setMaxDistance, setScale, setFlag){
     myHeight = setHeight;
     // TODO: Need to determine what it does
@@ -206,7 +223,10 @@ function setupChart(setWidth,setHeight,setDistance, setMaxDistance, setScale, se
     
 }
 
-// Loads data entered on test display
+/**
+ *  This is a function that adds a click listener to then set up the data for the 
+ *  graph canvas.
+ */
 document.getElementById("button").addEventListener("click", function(){
     var changeDistance = document.getElementById("distance").value;
     var changeMaxDistance = document.getElementById("maxDistance").value;
