@@ -1,3 +1,10 @@
+/*
+*   Name: EventHandler.js
+*   Summary: Handles all events when user clicks Earthquake button in the navigation bar.  Events include loading Stations based on XML, animate map, setup
+*   markers, and converting decimal/minutes/second to degrees.
+*   
+*/
+
 var latDecimal;
 var lngDecimal;
 
